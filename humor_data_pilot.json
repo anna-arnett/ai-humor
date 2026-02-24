@@ -21,14 +21,16 @@
                 "Step 6: This unexpected reinterpretation of earlier events (a benign fan interaction reframed as official monitoring) creates a punchline through irony and surprise, leading to laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Initial assumption",
-                "Pattern reinforces expectation",
-                "New information introduced",
-                "Reinterpretation of prior events",
-                "Incongruity detected",
-                "Frame contrast",
-                "Irony emerges",
-                "Laughter"
+              "Man takes photos of speaker and his sketches",
+              "Speaker assumes: he is an enthusiastic fan",
+              "Man returns second day and keeps taking photos",
+              "Speaker reinforces belief: devoted cartoon lover",
+              "Third day: speaker realizes the man is actually on duty",
+              "Reframe: photos were not admiration but official documentation",
+              "Implication: many images of him smiling now exist in police files",
+              "Contrast: cheerful posing vs surveillance record",
+              "Audience recognizes ironic misunderstanding",
+              "Laughter"
             ],
             "final_explanation": "The humor succeeds because the speaker humorously contrasts his cheerful posing for a supposed fan with the ironic realization that the photos were likely for police records, creating an unexpected and ironic twist.",
             "hallucination_flag": 0
@@ -59,14 +61,19 @@
                 "Step 6: This contrast between catastrophic reality and ordinary perception creates irony and absurdity, producing laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Technical setup",
-                "Escalation to extreme outcome",
-                "Expectation of dramatic consequence",
-                "Perspective shift introduced",
-                "Ordinary perception maintained",
-                "Scale mismatch exposed",
-                "Irony",
-                "Laughter"
+              "Question: what happens if a baseball travels near light speed?",
+              "Scientific explanation begins",
+              "Ball moves so fast air cannot move aside",
+              "Collisions strip atoms from the ball",
+              "Thermonuclear reactions triggered in the air",
+              "Flood of x-rays and plasma forms at the mound",
+              "Catastrophic event unfolds almost instantly",
+              "Only nanoseconds have passed",
+              "Light has not yet reached home plate",
+              "Batter still calmly sees pitcher about to throw",
+              "Mass destruction vs normal perception",
+              "Audience recognizes absurd contrast",
+              "Laughter"
             ],
             "final_explanation": "The joke succeeds because it contrasts a scientifically catastrophic event with the batter’s completely normal perception due to light-delay, creating ironic absurdity between massive destruction and calm unawareness.",
             "hallucination_flag": 0
@@ -91,14 +98,16 @@
                 "Step 6: Missing knowledge: C does not explicitly explain why “fedex days” is clever (the specific wordplay or intended meaning isn’t stated), so the reasoning can only ground the cleverness in the general idea of cheekily borrowing a brand name."
             ],
             "flow_chart": [
-                "Playful practice introduced",
-                "Creative label revealed",
-                "Implicit rule violation",
-                "Norm vs transgression contrast",
-                "Self-aware acknowledgment",
-                "Mild wrongdoing reframed as cleverness",
-                "Irony",
-                "Laughter"
+              "Company gives engineers free time to build anything",
+              "Engineers hack creatively and casually (beer included)",
+              "These days are named \"fedex days\"",
+              "Name references a well-known brand",
+              "Using someone else's brand name can violate trademark rules",
+              "Speaker openly calls it a \"huge trademark violation\"",
+              "Immediately adds: \"but it's pretty clever\"",
+              "Rule-breaking framed as ingenuity",
+              "Audience notices playful contradiction",
+              "Laughter"
             ],
             "final_explanation": "The humor succeeds because the speaker highlights a cheeky, potentially improper use of a famous trademark and then treats it as inventive, fitting the playful hacker culture described in the setup.",
             "hallucination_flag": 0
@@ -123,15 +132,19 @@
                 "Step 6: The humor arises from the escalation and the human-like portrayal of annoyance, culminating in an absurd and vivid image, which triggers laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Repeated attempt",
-                "Expectation of response",
-                "Failure persists",
-                "Escalating frustration",
-                "Behavior intensifies",
-                "Absurd visual image",
-                "Exaggeration",
-                "Laughter"
-              ],
+              "Female penguin brings live penguin to male",
+              "Drops it in front of him",
+              "Penguin swims away",
+              "She appears to expect him to retrieve it",
+              "He does nothing",
+              "She brings another penguin",
+              "Same failure repeats over several days",
+              "Her frustration builds",
+              "She escalates by placing penguins directly on his head",
+              "Audience visualizes absurd image",
+              "Exaggerated response to inaction",
+              "Laughter"
+            ],
             "final_explanation": "The joke succeeds because it builds on repeated failed attempts and anthropomorphized frustration, culminating in the exaggerated and absurd image of the penguin dropping prey directly on his head.",
             "hallucination_flag": 0
         }
@@ -155,15 +168,17 @@
                 "Step 6: The audience laughter (Y = 1) likely results from recognition of this shared social absurdity and the understated way it is described."
             ],
             "flow_chart": [
-                "Personal vulnerability introduced",
-                "Social norms described",
-                "Expectation of clarity",
-                "Vagueness revealed",
-                "Internal contradiction exposed",
-                "Shared recognition",
-                "Irony",
-                "Laughter"
-              ],
+              "Speaker admits fear of womanhood",
+              "Says she learned to cope and adapt",
+              "Looks back at expectations for girls growing up",
+              "Girls were told to be kind, pretty, gentle, soft",
+              "Girls were expected to \"fit into roles\"",
+              "Those roles were \"shadowy\" and unclear",
+              "Clear behavioral demands + unclear identity target",
+              "Rigid expectations without definition",
+              "Audience recognizes contradiction",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because it exposes the contradiction of rigid yet vague expectations placed on girls, and the audience recognizes the absurdity in being told to conform to roles that were never clearly defined.",
             "hallucination_flag": 0
         }
@@ -187,15 +202,16 @@
             "Step 6: The humor arises from this sudden shift from profound philosophy to self-deprecating reality, creating a light, relatable punchline that prompts laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Elevated philosophical framing",
-                "Abstract principle emphasized",
-                "Application to present moment",
-                "Shift to mundane reality",
-                "Self-deprecation introduced",
-                "Grand vs ordinary contrast",
-                "Incongruity",
-                "Laughter"
-              ],
+              "Speaker explains philosophy: people exist through others",
+              "Emphasizes shared humanity and connection",
+              "Applies idea to current live moment",
+              "States: without audience he is just a man in an empty room",
+              "Reveals he practiced alone last week",
+              "Grand moral principle reduced to awkward rehearsal reality",
+              "High ideal contrasted with mundane experience",
+              "Audience recognizes self-deprecating shift",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because the speaker moves from a lofty reflection on human interconnectedness to a self-deprecating comment about rehearsing alone, creating an unexpected and relatable contrast.",
             "hallucination_flag": 0
             }            
@@ -219,15 +235,17 @@
             "Step 6: This tonal shift combined with the recognizable absurdity of the situation produces laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Solemn emotional setup",
-                "Expectation of continued gravity",
-                "Abrupt anecdotal shift",
-                "Mild absurdity introduced",
-                "Serious vs trivial contrast",
-                "Incongruity",
-                "Release of tension",
-                "Laughter"
-              ],
+              "Speaker reflects on someone passing away",
+              "Tone is solemn and respectful",
+              "Audience expects continued tribute",
+              "Speaker shifts to specific memory",
+              "Memory: person went on Oprah's show",
+              "He asked Oprah what her show would be about",
+              "Question is obviously unnecessary",
+              "Serious mood interrupted by naïve moment",
+              "Audience recognizes tonal contrast",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because a solemn reflection about someone’s passing is followed by an unexpected, ironic anecdote about asking Oprah what her own show would be about, creating a sharp and playful contrast.",
             "hallucination_flag": 0
             }            
@@ -251,15 +269,17 @@
             "Step 6: The humor arises from her self-aware acknowledgment of how extensive the list sounds, lightly undercutting the seriousness and potential self-importance of the résumé-like recitation, prompting audience laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Serious thematic framing",
-                "Impressive credential listing",
-                "Expectation of completion",
-                "Excess implied",
-                "Self-awareness introduced",
-                "Potential boast undercut",
-                "Irony",
-                "Laughter"
-              ],
+              "Speaker discusses emotional harm and identity suppression",
+              "Tone is serious and reflective",
+              "She presents herself as a success story",
+              "Lists elite schools and major scholarships",
+              "List grows increasingly impressive",
+              "Audience senses résumé-style accumulation",
+              "She adds: \"and i could list more\"",
+              "Acknowledges excess of her own achievements",
+              "Potential boasting undercut by self-awareness",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because after listing numerous prestigious achievements, she self-awarely notes she could continue, playfully highlighting the excess and defusing any sense of self-importance.",
             "hallucination_flag": 0
             }
@@ -284,14 +304,16 @@
             "Step 6: The humor arises from this sudden, energetic exaggeration after a tender moment, lightening the emotional weight with a vivid and slightly unexpected image, prompting laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Deep emotional setup",
-                "Vulnerability and acceptance",
-                "Romantic culmination expected",
-                "Idiom introduced",
-                "Exaggerated modifier added",
-                "Tender vs energetic contrast",
-                "Playful incongruity",
-                "Laughter"
+              "Speaker recounts fear of never being loved",
+              "Describes rejection tied to identity",
+              "Explains partner loved him exactly as he is",
+              "Partner reframes scars as symbols of strength",
+              "Emotional tone is intimate and affirming",
+              "Audience anticipates heartfelt conclusion",
+              "He says he was \"sprinting towards her hand in marriage\"",
+              "Formal proposal phrase combined with exaggerated physical urgency",
+              "Tender moment suddenly made energetic and playful",
+              "Laughter"
             ],
             "final_explanation": "The humor succeeds because after an emotional and intimate story about acceptance and love, the speaker playfully exaggerates their eagerness to propose by saying they were \"sprinting\" toward marriage, creating a light and affectionate contrast.",
             "hallucination_flag": 0
@@ -317,15 +339,17 @@
             "Step 6: The humor arises from this quick, slightly jarring shift that exposes how automatic responses can be tripped up under time pressure, leading to laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Rapid-response instruction",
-                "Expectation of easy pattern",
-                "Cognitive priming",
-                "Sudden shift",
-                "Expectation disrupted",
-                "Brief confusion",
-                "Incongruity",
-                "Laughter"
-              ],
+              "Speaker instructs audience to respond quickly",
+              "Emphasis on speed and saying it out loud",
+              "He gives first word: \"black\"",
+              "Audience prepares automatic verbal response",
+              "Immediately gives next word: \"red\"",
+              "Rapid switch disrupts expected rhythm",
+              "Audience experiences momentary cognitive clash",
+              "Simple color words create unexpected confusion",
+              "Recognition of mental slip",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because the rapid switch from \"black\" to \"red\" under time pressure creates a small moment of cognitive disruption, playfully revealing how easily our automatic responses can be thrown off.",
             "hallucination_flag": 0
             }
@@ -350,15 +374,17 @@
             "Step 6: The humor arises from the exaggeration and relatability of struggling to translate a deeply loaded word, reinforcing the earlier point about language carrying more than literal definitions, prompting laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Abstract concept explained",
-                "Emphasis on deep meaning",
-                "Cross-context example introduced",
-                "Communication challenge emerges",
-                "Effort escalates",
-                "Exaggerated duration",
-                "Relatable struggle",
-                "Laughter"
-              ],
+              "Speaker argues words carry deep cultural meaning",
+              "Explains that certain expressions trigger strong shared memories",
+              "Says meaning is not just literal definition",
+              "Gives example of friend married to someone from another culture",
+              "Friend tries to explain one loaded word to her husband",
+              "Literal translation is not enough",
+              "She spends an entire night trying to convey the feeling",
+              "Simple word requires hours of explanation",
+              "Audience recognizes exaggeration and relatability",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because the anecdote humorously illustrates how culturally loaded words can be so hard to translate that someone might spend an entire night explaining just one, reinforcing the talk’s theme in a relatable way.",
             "hallucination_flag": 0
             }            
@@ -382,14 +408,16 @@
             "Step 6: The humor arises from the absurdity and clumsiness of the literal translation, which illustrates the earlier point about language and emotion not transferring cleanly, prompting laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Emotional meaning gap",
-                "Attempted translation",
-                "Literal rendering presented",
-                "Semantic distortion",
-                "Awkward phrasing",
-                "Absurd imagery",
-                "Incongruity",
-                "Laughter"
+              "Husband does not understand emotional weight of a word",
+              "Wife wants him to feel what she feels",
+              "She attempts to translate the expression literally",
+              "Translation becomes word-for-word rendering",
+              "Resulting sentence sounds awkward and dramatic",
+              "Imagery feels strange and unintentionally funny",
+              "Literal meaning fails to carry emotional meaning",
+              "Audience hears distorted version of original phrase",
+              "Mismatch between intent and wording becomes obvious",
+              "Laughter"
             ],
             "final_explanation": "The humor succeeds because the literal translation sounds awkward and absurd in English, vividly demonstrating how emotionally rich expressions can become unintentionally funny when translated word-for-word.",
             "hallucination_flag": 0
@@ -414,15 +442,18 @@
             "Step 6: The pun lightens the heavy topic momentarily while reinforcing the seriousness of the critique, prompting audience laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Serious systemic critique",
-                "Harm emphasized",
-                "Term introduced",
-                "Familiar phrase evoked",
-                "Key word substituted",
-                "Pun formed",
-                "Cognitive recognition",
-                "Laughter"
-              ],
+              "Speaker explains algorithms influence sentencing",
+              "Higher scores lead to longer prison terms",
+              "Claims these systems hide bias inside \"black boxes\"",
+              "Describes them as secret, important, and destructive",
+              "Introduces a new label for these algorithms",
+              "Says the term is \"weapons of math destruction\"",
+              "Audience recognizes similarity to \"weapons of mass destruction\"",
+              "Single word changed from \"mass\" to \"math\"",
+              "Serious political phrase repurposed for data critique",
+              "Clever wordplay breaks tension",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because it uses a recognizable phrase, \"weapons of mass destruction,\" and cleverly alters it to \"weapons of math destruction,\" creating wordplay that reinforces the critique while providing a brief comic release.",
             "hallucination_flag": 0
             }
@@ -446,15 +477,19 @@
             "Step 6: This incongruity between the grand prehistoric predator and the ordinary image of his son produces surprise and laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Scientific buildup",
-                "Grand imagery constructed",
-                "Expectation of continued seriousness",
-                "Abrupt personal reveal",
-                "Scale mismatch",
-                "Serious vs mundane contrast",
-                "Incongruity",
-                "Laughter"
-              ],
+              "Speaker describes ancient mammal-like reptiles",
+              "Explains they are distant ancestors",
+              "Details a massive skull and lion-like head",
+              "Calls it the \"t rex of its time\"",
+              "Audience imagines a huge prehistoric predator",
+              "Tone is serious and scientific",
+              "Slide changes",
+              "He says: \"this is my poor son patrick\"",
+              "Expectation of fossil replaced by image of his child",
+              "Terrifying creature contrasted with ordinary boy",
+              "Sudden scale and tone shift",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because after vividly describing a terrifying prehistoric predator, the speaker abruptly reveals an image of his son, creating an unexpected and playful contrast between the grand scientific buildup and a personal joke.",
             "hallucination_flag": 0
             }
@@ -478,15 +513,17 @@
             "Step 6: The humor arises from the abrupt contradiction between the sophisticated design presentation and the admission that it fails all standards, creating ironic self-deprecation and surprise (Y = 1)."
             ],
             "flow_chart": [
-                "Impressive presentation",
-                "Expectation of quality",
-                "Functional assumption formed",
-                "Negative reveal",
-                "Expectation reversed",
-                "Competence undermined",
-                "Incongruity",
-                "Laughter"
-              ],
+              "Speaker presents sleek carbon fiber handrail",
+              "Describes it as innovative and holistic",
+              "Mentions it is supported in only two places",
+              "Shows studio image and everyday use",
+              "Audience assumes it is well-engineered",
+              "Handrails are expected to meet safety standards",
+              "Speaker states: \"it doesn't pass any standards\"",
+              "Admiration replaced with regulatory failure",
+              "Design excellence contrasted with noncompliance",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because after presenting the handrail as an elegant, advanced design, the speaker unexpectedly admits it fails all standards, creating an ironic and self-deprecating contrast.",
             "hallucination_flag": 0
             }
@@ -511,15 +548,17 @@
             "Step 6: The humor arises from compressing a monumental tragedy and her own arrival into a brief, ironic commentary about the intensity of the century, producing a light, reflective punchline (Y = 1)."
             ],
             "flow_chart": [
-                "Historical reference",
-                "Major event described",
-                "Personal link inserted",
-                "Catastrophe vs birth contrast",
-                "Large-scale framing",
-                "Understated summary",
-                "Ironic compression",
-                "Laughter"
-              ],
+              "Interviewer references well-known historical figure",
+              "Mentions he was born the year the Titanic sank",
+              "Titanic described as greatest ship that \"went down\"",
+              "Speaker adds: \"it went down and I came up\"",
+              "Disaster paired with personal birth",
+              "Mass tragedy and individual arrival linked",
+              "Speaker comments: \"wow some century\"",
+              "Enormous history reduced to casual remark",
+              "Understatement highlights dramatic contrast",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because she juxtaposes the Titanic’s dramatic sinking with her own birth and then wryly sums it up as \"some century,\" playfully highlighting the era’s extremes in a concise, ironic way.",
             "hallucination_flag": 0
             }
@@ -544,15 +583,19 @@
             "Step 6: The humor arises from the gentle teasing of donors and the unexpected specificity of highlighting a single large donor, which lightens the otherwise serious narrative (Y = 1)."
             ],
             "flow_chart": [
-                "Serious hardship narrative",
-                "Emotional investment built",
-                "Positive response introduced",
-                "Qualified praise added",
-                "Small vs large contrast",
-                "Mild teasing tone",
-                "Irony",
-                "Laughter"
-              ],
+              "Story of poverty and injustice",
+              "Audience empathy and seriousness established",
+              "Article published in major newspaper",
+              "Donations begin to arrive",
+              "Many checks received",
+              "Speaker says donors are \"very generous\"",
+              "Adds: \"in tiny amounts\"",
+              "Praise subtly undercut",
+              "One unusually large transfer mentioned",
+              "Many small gifts vs one big gift contrast",
+              "Gentle teasing of audience group",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because after a serious story about poverty, the speaker playfully notes that readers are generous but in small amounts, then contrasts this with one notably large donation, creating a light, ironic moment.",
             "hallucination_flag": 0
             }
@@ -577,15 +620,18 @@
             "Step 6: The unexpected phrasing lightly breaks the technical tone and creates a simple absurdity, prompting laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Technical explanation",
-                "Specific domain focus",
-                "Demo proposed",
-                "Obvious condition stated",
-                "Redundancy recognized",
-                "Expectation of necessity broken",
-                "Absurdity",
-                "Laughter"
-              ],
+              "Detailed explanation of facial-recognition algorithm",
+              "Focus on smiles, smirks, facial features",
+              "Technology said to detect faces",
+              "Speaker proposes a live demo",
+              "Requests a volunteer",
+              "Adds: \"preferably somebody with a face\"",
+              "All audience members obviously have faces",
+              "Unnecessary condition highlighted",
+              "Serious tone undercut by obviousness",
+              "Absurd redundancy recognized",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because after a technical explanation about facial recognition, she asks for a volunteer \"preferably somebody with a face,\" an obviously redundant condition that playfully undercuts the formality of the setup.",
             "hallucination_flag": 0
             }
@@ -610,15 +656,18 @@
             "Step 6: This self-aware simplification of his own complex explanation creates a light moment after a serious topic, prompting laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Serious analytical setup",
-                "Nuanced answer presented",
-                "Expectation of depth",
-                "Colloquial simplification",
-                "Complexity reduced",
-                "Self-undercutting",
-                "Irony",
-                "Laughter"
-              ],
+              "Discussion of technology replacing jobs",
+              "High-stakes global workforce issue framed",
+              "Complex question posed",
+              "Answer given: \"yes and no\"",
+              "Sounds nuanced and analytical",
+              "Audience expects detailed insight",
+              "Speaker reframes it as \"it depends\"",
+              "Formal answer reduced to common phrase",
+              "Sophistication lightly mocked",
+              "Self-aware simplification",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because he admits that his nuanced \"yes and no\" answer is essentially just a polished version of \"it depends,\" playfully undercutting his own complexity.",
             "hallucination_flag": 0
             }
@@ -643,15 +692,18 @@
             "Step 6: The humor arises from this unexpected shift to informal, dramatic slang to describe a scientific image, prompting laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Technical buildup",
-                "Climactic visual framed",
-                "Expectation of formal tone",
-                "Slang label introduced",
-                "Register shift",
-                "High vs casual contrast",
-                "Incongruity",
-                "Laughter"
-              ],
+              "Video of real satellite launch introduced",
+              "Emphasis that it is authentic footage",
+              "Scale of tiny satellites vs space station described",
+              "Speaker highlights final dramatic visual",
+              "Audience expects scientific description",
+              "Speaker calls it \"the money shot\"",
+              "Informal slang used in formal space context",
+              "Register shifts from technical to casual",
+              "Grand science meets pop-culture phrasing",
+              "Unexpected tone contrast recognized",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because after building up a scientifically impressive moment, he casually labels it \"the money shot,\" using informal, slightly loaded slang that contrasts with the formal space context.",
             "hallucination_flag": 0
             }
@@ -676,15 +728,19 @@
             "Step 6: The humor arises from the sudden, vivid, and unexpected metaphor that contrasts with ordinary self-description, creating a surprising and charming visual that prompts laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Poetic self-description",
-                "Awkward vulnerability built",
-                "Identity destabilized",
-                "Unexpected metaphor",
-                "Vivid absurd image",
-                "Literal vs figurative clash",
-                "Playful incongruity",
-                "Laughter"
-              ],
+              "Speaker uses layered poetic language",
+              "Multiple self-deprecating metaphors",
+              "Tone of social awkwardness established",
+              "States: \"I'm not even really a guy\"",
+              "Expectation of serious identity statement",
+              "Replaces identity with image",
+              "Image: \"monkey blowing kisses at a butterfly\"",
+              "Highly visual and whimsical comparison",
+              "Human identity reduced to playful animal scene",
+              "Unexpected metaphorical leap",
+              "Absurd but charming contrast",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because the speaker abruptly replaces his identity with the whimsical image of \"a monkey blowing kisses at a butterfly,\" an exaggerated and unexpected metaphor that playfully captures awkward affection.",
             "hallucination_flag": 0
             }
@@ -709,15 +765,19 @@
             "Step 6: The humor arises from the self-aware acknowledgment that he may have relied on promotional language rather than verified science, lightly mocking his own participation in gadget-driven sustainability (Y = 1)."
             ],
             "flow_chart": [
-                "Critical stance introduced",
-                "Personal example given",
-                "Technical claim presented",
-                "Authority implied",
-                "Source trivialized",
-                "Credibility undercut",
-                "Self-aware irony",
-                "Laughter"
-              ],
+              "Speaker criticizes gadget-based sustainability",
+              "Admits personal participation in it",
+              "Describes buying many eco-innovations",
+              "Mentions advanced \"German high-tech stove\"",
+              "States technical carbon-saving claim",
+              "Claim sounds scientific and authoritative",
+              "Audience assumes research-backed evidence",
+              "Speaker reveals source: \"the brochure\"",
+              "Marketing replaces scientific authority",
+              "Serious claim deflated",
+              "Self-implication acknowledged",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because after citing a technical-sounding environmental claim, he deflates its authority by admitting it came from a brochure, playfully exposing the influence of marketing on \"green\" decisions.",
             "hallucination_flag": 0
             }
@@ -742,15 +802,19 @@
             "Step 6: The humor arises from exaggerating the convenience of tracking technology to the point where one casually \"asks\" the house itself, playfully anthropomorphizing technology and contrasting it with the mundane act of asking his wife (Y = 1)."
             ],
             "flow_chart": [
-                "Convenience vision outlined",
-                "Relatable problem introduced",
-                "Human solution used",
-                "Technological escalation",
-                "Non-human agency implied",
-                "Anthropomorphism",
-                "Exaggeration",
-                "Laughter"
-              ],
+              "Future imagined: everything tagged with tracking dots",
+              "Promise: never lose important items",
+              "Example: losing shoes at home",
+              "Current solution: ask spouse",
+              "Speaker says this is trivial inconvenience",
+              "Proposes improved solution",
+              "States: \"ask my house where my shoes are\"",
+              "House treated as if it can answer",
+              "Inanimate object given human capability",
+              "Domestic moment replaced by smart-home fantasy",
+              "Exaggerated convenience recognized",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because he escalates the idea of smart tracking to the absurdly convenient notion of asking his house where his shoes are, playfully anthropomorphizing technology in contrast to a relatable domestic moment.",
             "hallucination_flag": 0
             }
@@ -775,15 +839,19 @@
             "Step 6: The humor arises from this wordplay and unexpected substitution, which reframes a serious privacy issue in a clever, slightly ironic way, prompting laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Serious threat described",
-                "Authority limitation noted",
-                "Expanded risk implied",
-                "Familiar phrase invoked",
-                "Key term substituted",
-                "Threat reframed",
-                "Wordplay",
-                "Laughter"
-              ],
+              "Case of invasive tracking described",
+              "Fear and privacy risk emphasized",
+              "Supreme Court ruling mentioned",
+              "Police require warrant for tracking",
+              "Uncertainty about civilians tracking each other",
+              "Surveillance threat broadened beyond government",
+              "Audience recalls phrase \"Big Brother\"",
+              "Speaker says: \"not just Big Brother\"",
+              "Replaces with: \"Big Neighbor\"",
+              "Government watcher swapped for nearby civilian",
+              "Serious concern reframed through wordplay",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because he plays on the familiar phrase \"big brother\" and replaces it with \"big neighbor,\" cleverly highlighting the unsettling idea that surveillance threats may come from ordinary people rather than just the government.",
             "hallucination_flag": 0
             }
@@ -808,15 +876,19 @@
             "Step 6: The humor arises from the understated punchline that such extreme scheduling confusion leads to needing a dedicated \"mars watch,\" playfully normalizing an unusual situation and prompting laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Gradual shift described",
-                "Cumulative confusion built",
-                "Problem emphasized",
-                "Concise solution offered",
-                "Specialized label introduced",
-                "Absurdity normalized",
-                "Understatement",
-                "Laughter"
-              ],
+              "Work schedule shifts later each day",
+              "Shift accumulates over time",
+              "Eventually working in middle of the night",
+              "Normal day-night rhythm disrupted",
+              "Confusion and disorientation emphasized",
+              "Audience imagines practical difficulty",
+              "Speaker states: \"hence the Mars watch\"",
+              "Ordinary watch replaced with planet-specific one",
+              "Extreme situation treated as routine",
+              "Problem reduced to simple gadget",
+              "Understated punchline",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because after describing the disorienting time shifts, she casually concludes with \"hence the mars watch,\" humorously suggesting a specialized solution to an otherwise absurd scheduling problem.",
             "hallucination_flag": 0
             }
@@ -841,15 +913,20 @@
             "Step 6: The humor arises from the relatable observation that being awake at extremely early hours eliminates traffic, turning an unusual \"mars time\" inconvenience into a practical advantage (Y = 1)."
             ],
             "flow_chart": [
-                "Unusual schedule described",
-                "Lifestyle disruption shown",
-                "Strangeness normalized",
-                "Everyday setting referenced",
-                "Hidden benefit revealed",
-                "Common frustration resolved",
-                "Relatable twist",
-                "Laughter"
-              ],
+              "Family adopts shifting \"Mars time\" schedule",
+              "Daily wake-up moves later each day",
+              "Activities occur in middle of the night",
+              "Beach trips and bowling at odd hours",
+              "Audience registers inconvenience",
+              "Setting specified: Los Angeles",
+              "LA associated with heavy traffic",
+              "Speaker notes it is early morning",
+              "States: \"you can get anywhere\"",
+              "Traffic problem disappears at that hour",
+              "Inconvenience reframed as advantage",
+              "Relatable city joke lands",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because she connects the oddity of living on \"mars time\" with the relatable benefit of avoiding Los Angeles traffic, turning a disruptive schedule into an unexpectedly convenient perk.",
             "hallucination_flag": 0
             }
@@ -874,15 +951,19 @@
             "Step 6: The humor arises from treating a work-schedule mismatch like a species divide, playfully dramatizing an everyday social separation created by an odd shift schedule (Y = 1)."
             ],
             "flow_chart": [
-                "Unusual behavior observed",
-                "Group labeled metaphorically",
-                "Identity adopted",
-                "In-group vs out-group formed",
-                "Sci-fi framing applied",
-                "Everyday difference exaggerated",
-                "Playful contrast",
-                "Laughter"
-              ],
+              "Team works on \"Mars time\" at night",
+              "They drive empty LA freeways at odd hours",
+              "Restaurant owners question who they are",
+              "They are described as \"packs of martians\"",
+              "Group embraces the label \"martians\"",
+              "Night-shift identity becomes playful persona",
+              "Speaker extends contrast",
+              "Mars-time workers = \"martians\"",
+              "Everyone else = \"earthlings\"",
+              "Ordinary schedule difference framed as species divide",
+              "Sci-fi exaggeration applied to daily life",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because she uses the sci-fi contrast of \"martians\" and \"earthlings\" to exaggerate the social divide created by an unusual night-shift schedule, turning a logistical inconvenience into a playful identity joke.",
             "hallucination_flag": 0
             }
@@ -907,15 +988,19 @@
             "Step 6: This playful escalation of hospitality creates a light, vivid image that contrasts with the otherwise reflective tone, prompting laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Community warmth described",
-                "Single act of hospitality",
-                "Implicit repetition",
-                "Escalation upward",
-                "Excess implied",
-                "Benign behavior exaggerated",
-                "Absurd extension",
-                "Laughter"
-              ],
+              "Building described as community gathering place",
+              "People come together in unity",
+              "Example: someone opens a window and offers tea",
+              "Gesture shows warmth and hospitality",
+              "Listener imagines single friendly interaction",
+              "Speaker adds: you keep going up",
+              "Hospitality implied at every level",
+              "Repeated offers accumulate",
+              "Simple kindness escalates into ongoing loop",
+              "Warm scene becomes gently excessive",
+              "Exaggeration recognized",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because he exaggerates the community's hospitality into the image of continually moving up the building as more people offer tea, turning warmth into a gently absurd escalation.",
             "hallucination_flag": 0
             }
@@ -940,15 +1025,18 @@
             "Step 6: The humor arises from this clear inconsistency between personal behavior and political advocacy, producing a moment of ironic surprise (Y = 1)."
             ],
             "flow_chart": [
-                "Policy conflict described",
-                "Figure recruited",
-                "Hidden detail revealed",
-                "Behavior contradicts stance",
-                "Inconsistency exposed",
-                "Irony recognized",
-                "Expectation reversal",
-                "Laughter"
-              ],
+              "Discussion of efforts to slow solar adoption",
+              "Regulations and taxes proposed",
+              "Political figure recruited to support effort",
+              "Audience assumes she aligns with anti-solar policy",
+              "New fact revealed: she just installed solar panels",
+              "Personal action conflicts with proposed policy",
+              "Speaker adds: she \"didn't understand the request\"",
+              "Contradiction becomes explicit",
+              "Advocacy vs self-interest clash",
+              "Irony exposed",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because it exposes the irony of someone being asked to support taxing solar panels right after installing them herself, highlighting a contradiction in a simple, understated way.",
             "hallucination_flag": 0
             }
@@ -973,15 +1061,19 @@
             "Step 6: This blend of precise math with a familiar idiom creates an ironic punchline about near-certain failure, prompting laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Low odds established",
-                "Calculation buildup",
-                "Precise figure revealed",
-                "Familiar idiom invoked",
-                "Literalization of exaggeration",
-                "Bleak result emphasized",
-                "Irony",
-                "Laughter"
-              ],
+              "Speaker says outcome is \"terrible\"",
+              "Attributes conclusion to numerical calculation",
+              "Audience anticipates technical probability",
+              "Very small percentage stated",
+              "Converted into phrase: \"one in a million\"",
+              "Common idiom usually signals special rarity",
+              "Speaker adds \"literally\"",
+              "Exaggeration becomes exact statistic",
+              "Optimistic cliché reframed as near-impossibility",
+              "Deadpan delivery of discouraging odds",
+              "Irony between phrase and reality",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because the speaker converts a precise, tiny probability into the familiar phrase \"one in a million\" and emphasizes it with \"literally,\" making a common exaggeration unexpectedly exact and bleakly funny.",
             "hallucination_flag": 0
             }
@@ -1006,15 +1098,20 @@
             "Step 6: The humor arises from the contrast between the childlike image of \"playing in a sandbox\" and the serious reality of risking major resources, creating an ironic juxtaposition that prompts laughter (Y = 1)."
             ],
             "flow_chart": [
-                "Constraint on creativity",
-                "Need for innovation",
-                "Workaround proposed",
-                "Childlike metaphor introduced",
-                "High stakes acknowledged",
-                "Play vs risk contrast",
-                "Incongruity",
-                "Laughter"
-              ],
+              "Complex projects require proven reliable ideas",
+              "Only repeated ideas seem safe to use",
+              "Original ideas appear too risky",
+              "Speaker feels trapped creatively",
+              "Solution: search for untested idea space",
+              "Metaphor introduced: \"find a sandbox\"",
+              "Sandbox implies childlike safe play",
+              "Speaker adds: \"gamble a whole bunch of resources\"",
+              "Playful image paired with high financial risk",
+              "Safety metaphor collides with gambling language",
+              "Innovation framed as both play and risk",
+              "Incongruity recognized",
+              "Laughter"
+            ],
             "final_explanation": "The humor succeeds because he contrasts the high-stakes act of gambling significant resources with the playful image of \"playing in a sandbox,\" highlighting the tension between risk and experimentation in a light, ironic way.",
             "hallucination_flag": 0
             }
