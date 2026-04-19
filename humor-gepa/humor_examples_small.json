@@ -1,0 +1,69 @@
+[
+    {
+        "id": "1181",
+        "source": "TED",
+        "C_text": "Boyd Varty: mandela said often that the gift of prison was the ability to go within and to think to create in himself the things he most wanted for south africa peace reconciliation harmony, Boyd Varty: through this act of immense open he was to become the embodiment of what in south africa we call, Boyd Varty: i am because of you, Boyd Varty: or people are not people without other people, Boyd Varty: in fact it is said that in the collective consciousness of africa we get to experience the deepest parts of our own humanity through our interactions with others, Boyd Varty: is at play right now",
+        "X_text": "without you i'm just a guy talking to an empty room and i spent a lot of time last week doing that and it's not the same as this (audience laughs)",
+        "X_speaker": "Boyd Varty",
+        "Y": 1,
+        "gold_support_label": "text_sufficient",
+        "gold_flags": [],
+        "gold_hallucination_flag": 0,
+        "gold_note": "The transcript is sufficient because the setup emphasizes human connection and the speaker then humorously applies that idea to the live audience by contrasting this talk with the lonely experience of practicing alone in an empty room."
+    },
+
+    {
+        "id": "4278",
+        "source": "TED",
+        "C_text": "Cathy ONeil: dylan on the right out of, Cathy ONeil: out of high risk, Cathy ONeil: out of low risk, Cathy ONeil: they both had records but dylan had a felony but bernard didn't, Cathy ONeil: this matters because the higher score you are the more likely you're being given a longer sentence, Cathy ONeil: what's going on data laundering, Cathy ONeil: it's a process by which technologists hide ugly truths inside black box algorithms and call them objective call them",
+        "X_text": "when they're secret important and destructive i've coined a term for these algorithms weapons of math destruction (audience laughs)",
+        "X_speaker": "Cathy ONeil",
+        "Y": 1,
+        "gold_support_label": "text_sufficient",
+        "gold_flags": [],
+        "gold_hallucination_flag": 0,
+        "gold_note": "The transcript is sufficient because the humor comes from the phrase 'weapons of math destruction,' which is a wordplay twist on 'weapons of mass destruction' and fits the local context by describing algorithms as secret, important, and harmful rather than neutral or objective."
+
+    },
+
+    {
+        "id": "9161",
+        "source": "TED",
+        "C_text": "Nagin Cox: so one day you come in at the next day minutes later at the next day minutes later at the next day at, Nagin Cox: so you keep moving minutes every day until soon you're coming to work in the middle of the night the middle of the earth night, Nagin Cox: right so you can imagine how confusing that is",
+        "X_text": "hence the mars watch (audience laughs)",
+        "X_speaker": "Nagin Cox",
+        "Y": 1,
+        "gold_support_label": "text_insufficient_missing_context",
+        "gold_flags": ["missing_context"],
+        "gold_hallucination_flag": 1,
+        "gold_note": "The transcript suggests a joke about a phrase or label called 'mars watch,' but it does not provide enough setup to explain why that phrase is funny or what specific comparison or reference the audience is recognizing, so the humor mechanism is not recoverable from the text alone."
+    },
+
+    {
+        "id": "2464",
+        "source": "TED",
+        "C_text": "Sendhil Mullainathan: i want you to do it fast and say it out loud with me and do it quickly, Sendhil Mullainathan: i'll make the first one easy for you, Sendhil Mullainathan: ready black",
+        "X_text": "red (audience laughs)",
+        "X_speaker": "Sendhil Mullainathan",
+        "Y": 1,
+        "gold_support_label": "text_insufficient_possible_multimodal",
+        "gold_flags": ["possible_multimodal_dependence"],
+        "gold_hallucination_flag": 1,
+        "gold_note": "The laughter likely depends on an unseen visual or live performance cue, such as a displayed color word or color mismatch, because the transcript alone does not explain why answering 'red' after 'ready black' is funny."
+
+    },
+
+    {
+        "id": "3075",
+        "source": "TED",
+        "C_text": "Suzanne Talhouk: he was puzzled by the thought how could anyone be this cruel does she want to commit suicide this is one of the few examples, Suzanne Talhouk: it made us feel that she's unable to tell that word to her husband since he won't understand and he's right not to his way of thinking is different, Suzanne Talhouk: she said to me he listens to with me and one night i tried to translate for him so he can feel what i feel when i listen to",
+        "X_text": "the poor woman tried to translate this for him from them i extended my hands and stole you and here's the pickle and because you belong to them i returned my hands and left you (audience laughs)",
+        "X_speaker": "Suzanne Talhouk",
+        "Y": 1,
+        "gold_support_label": "text_insufficient_possible_transcription_error",
+        "gold_flags": ["possible_bad_transcription"],
+        "gold_hallucination_flag": 1,
+        "gold_note": "The transcript appears unreliable because the quoted line is semantically broken and reads like a mistranslation or bad transcription, so the verbal humor mechanism cannot be recovered confidently from the text alone."
+
+    }
+]

@@ -1,0 +1,38 @@
+{
+  "traces": [],
+  "train": [],
+  "demos": [],
+  "signature": {
+    "instructions": "You are tasked with annotating instances of humor for a research dataset. Your main objective is to evaluate why a humorous attempt succeeds or fails based on the provided textual context. You must determine if the humor can be fully understood from the text alone or if it relies on external factors, such as visual cues, background knowledge, or prior dialogue.\n\n**Input Fields Breakdown:**\n- **C_text:** This is the preceding context or dialogue that leads up to the humorous utterance.\n- **X_text:** This is the specific utterance that may contain humor.\n- **X_speaker:** The individual delivering the humorous utterance.\n- **Y:** The audience's reaction, where 1 indicates a successful humor (laughter) and 0 indicates a failed attempt (no laughter).\n\n**Output Requirements:**\nYour output should be a single JSON object formatted as follows:\n- **text_support_label:** Determine one of the following categories:\n  - \"text_sufficient\" if the humor trigger is clear and understandable from C_text and X_text.\n  - \"text_insufficient_possible_multimodal\" if the humor likely relies on unseen visual or performance context.\n  - \"text_insufficient_missing_context\" if prior dialogue or background information is necessary for understanding the humor.\n  - \"text_insufficient_possible_transcription_error\" if the text appears malformed, incoherent, or otherwise flawed.\n  \n- **data_quality_flags:** Include any relevant flags if there are signs of data issues, choosing from:\n  - \"missing_context\" \n  - \"possible_bad_transcription\" \n  - \"possible_speaker_misattribution\" \n  - \"possible_truncation\" \n  - \"possible_alignment_error\" \n  - \"possible_multimodal_dependence\"\n\n- **reasoning_steps:** Provide a structured explanation in a logical sequence (minimum three steps) demonstrating how you arrived at your conclusions based on the text.\n\n- **flow_chart:** Create a flow chart detailing the causal relationships between the context and the humorous utterance. This should include 7-8 sequential steps illustrating how understanding builds up to the punchline.\n\n- **final_explanation:** Summarize your findings in one concise sentence.\n\n- **hallucination_flag:** Set to 0 if your conclusion is supported by the provided text; set to 1 if it relies on uncertain assumptions or suspected flaws.\n\n**Important Considerations:**\n1. You must solely use the text provided and avoid any assumptions or external references.\n2. Follow commonsense reasoning when interpreting humor and audience reactions.\n3. If named entities are present, clarify their relevance or significance to ensure full understanding.\n4. Your rationale must be rooted in the chosen text, and you should avoid inventing or repairing missing content.\n\nMake sure to be concise, clear, and systematic in your response to ensure usability of the annotated data for research purposes.",
+    "fields": [
+      {
+        "prefix": "C Text:",
+        "description": "preceding context or dialogue"
+      },
+      {
+        "prefix": "X Text:",
+        "description": "candidate humorous utterance"
+      },
+      {
+        "prefix": "X Speaker:",
+        "description": "speaker of X_text"
+      },
+      {
+        "prefix": "Y:",
+        "description": "receiver reaction: 1=laughter, 0=no laughter"
+      },
+      {
+        "prefix": "Annotation Json:",
+        "description": "Return exactly one JSON object and nothing else."
+      }
+    ]
+  },
+  "lm": null,
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.10",
+      "dspy": "3.1.3",
+      "cloudpickle": "3.1"
+    }
+  }
+}

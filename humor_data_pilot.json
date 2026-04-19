@@ -7,10 +7,10 @@
             "Patrick Chappatte: and as he came the second day i thought wow that's really a cartoon lover",
             "Patrick Chappatte: and on the third day i finally understood the guy was actually on duty"
         ],
-        "C_completeness": "complete",
         "X_text": "so by now there must be a hundred pictures of me smiling with my sketches in the files of the vietnamese police",
         "X_speaker": "Patrick Chappatte",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
                 "Step 1: In the context (C), the speaker describes initially believing a man photographing him was an enthusiastic fan of his sketches.",
@@ -47,10 +47,10 @@
             "Randall Munroe: the ball would smash right into and through them and the collisions with these air molecules would knock away the nitrogen carbon and hydrogen from the ball fragmenting it off into tiny particles and also triggering waves of thermonuclear fusion in the air around it",
             "Randall Munroe: this would result in a flood of x rays that would spread out in a bubble along with exotic particles plasma inside centered on the mound and that would move away from the mound slightly faster than the ball"
           ],
-        "C_completeness": "complete",
         "X_text": "now at this point about nanoseconds in the home plate is far enough away that light hasn't had time to reach it which means the batter still sees the pitcher about to throw and has no idea that anything is wrong",
         "X_speaker": "Randall Munroe",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
                 "Step 1: In the context (C), the speaker scientifically explains that a baseball traveling near the speed of light would cause extreme physical effects, including fragmentation, thermonuclear fusion, X-rays, plasma, and exotic particles.",
@@ -84,10 +84,10 @@
         "id": "866",
         "source": "TED",
         "C_text": "a few times a year they tell their engineers go for the next hours and work on anything you want as long as it's not part of your regular job work on anything you want engineers use this time to come up with a cool patch for code come up with an elegant hack being australians everybody has a beer they call them fedex days",
-        "C_completeness": "complete",
         "X_text": "it's a huge trademark violation but it's pretty clever",
         "X_speaker": "Daniel Pink",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
                 "Step 1: In the context (C), the speaker describes a company practice where engineers get a block of time to work on anything they want outside their regular duties, often producing “cool” or “elegant” hacks, with a casual, fun vibe (including “everybody has a beer”).",
@@ -118,7 +118,6 @@
         "id": "1013",
         "source": "TED",
         "C_text": "David Griffin: so what she did was she started to bring penguins to him alive and put them in front of him, David Griffin: she dropped them off and then they would swim away, David Griffin: she'd kind of look at him like what are you doing go back and get them and then bring them back and drop them in front of him",
-        "C_completeness": "complete",
         "X_text": "and she did this over the course of a couple of days until the point where she got so frustrated with him that she started putting them directly on top of his head (audience laughs)",
         "X_speaker": "David Griffin",
         "Y": 1,
@@ -154,10 +153,10 @@
         "id": "1166",
         "source": "TED",
         "C_text": "Liza Donnelly: i was afraid of womanhood, Liza Donnelly: not that i'm not afraid now but i've learned to pretend, Liza Donnelly: i've learned to be flexible, Liza Donnelly: in fact i've developed some interesting tools to help me deal with this fear",
-        "C_completeness": "complete",
         "X_text": "back in the and when i was growing up little girls were supposed to be kind and thoughtful and pretty and gentle and soft and we were supposed to fit into roles that were sort of shadowy really not quite clear what we were supposed to be (audience laughs)",
         "X_speaker": "Liza Donnelly",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
                 "Step 1: In the context (C), the speaker discusses being afraid of womanhood and developing “tools” to cope with that fear, setting up a reflective and somewhat serious tone.",
@@ -188,10 +187,10 @@
         "id": "1181",
         "source": "TED",
         "C_text": "Boyd Varty: mandela said often that the gift of prison was the ability to go within and to think to create in himself the things he most wanted for south africa peace reconciliation harmony, Boyd Varty: through this act of immense open he was to become the embodiment of what in south africa we call, Boyd Varty: i am because of you, Boyd Varty: or people are not people without other people, Boyd Varty: in fact it is said that in the collective consciousness of africa we get to experience the deepest parts of our own humanity through our interactions with others, Boyd Varty: is at play right now",
-        "C_completeness": "complete",
         "X_text": "without you i'm just a guy talking to an empty room and i spent a lot of time last week doing that and it's not the same as this (audience laughs)",
         "X_speaker": "Boyd Varty",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker discusses Mandela’s philosophy of interconnectedness, emphasizing that people become fully human through relationships with others.",
@@ -221,10 +220,10 @@
         "id": "1186",
         "source": "TED",
         "C_text": "Boyd Varty: pat, Boyd Varty: i'm so happy because it was time for him to pass on",
-        "C_completeness": "minimal",
         "X_text": "but i just think of so many occurrences like the time he went on the oprah show and asked her what the show would be about (audience laughs)",
         "X_speaker": "Boyd Varty",
         "Y": 1,
+        "C_completeness": "minimal",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker expresses a serious and emotional sentiment, saying he was happy because it was time for someone to pass on, implying a reflective moment about death.",
@@ -255,10 +254,10 @@
         "id": "1243",
         "source": "TED",
         "C_text": "Dena Simmons: there is emotional damage done when young people can't be themselves when they are forced to edit who they are in order to be acceptable, Dena Simmons: it's a kind of violence, Dena Simmons: ultimately i'm a quintessential success story, Dena Simmons: i attended boarding school and college in new england studied abroad in chile and returned to the bronx to be a middle school teacher, Dena Simmons: i received a truman scholarship a fulbright and a soros fellowship",
-        "C_completeness": "complete",
         "X_text": "and i could list more (audience laughs)",
         "X_speaker": "Dena Simmons",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker discusses serious themes about emotional harm and identity suppression, establishing a thoughtful and weighty tone.",
@@ -290,10 +289,10 @@
         "id": "2041",
         "source": "TED",
         "C_text": "Tiq Milan and Kim Milan: my mother's biggest concern when i was who was going to love me as i am, Tiq Milan and Kim Milan: had being somehow precluded me from love and monogamy because i was supposedly born in the wrong body but it's this type of structuring that has to be in order to let love in, Tiq Milan and Kim Milan: my body never betrayed me and my body was never wrong, Tiq Milan and Kim Milan: it's this restrictive binary thinking on gender that said that i didn't exist, Tiq Milan and Kim Milan: but when we met she loved me for exactly how i showed up, Tiq Milan and Kim Milan: she would trace her fingers along the numb scars left by my top surgery, Tiq Milan and Kim Milan: scars that run from the middle of my chest all the way out to my outer torso, Tiq Milan and Kim Milan: she said that these were reminders of my strength and everything that i went through and nothing for me to be ashamed of",
-        "C_completeness": "complete",
         "X_text": "so sprinting towards her hand in marriage was the thing that i could do (audience laughs)",
         "X_speaker": "Tiq Milan and Kim Milan",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker shares a deeply personal and emotional story about identity, love, acceptance, and overcoming restrictive gender norms.",
@@ -325,10 +324,10 @@
         "id": "2464",
         "source": "TED",
         "C_text": "Sendhil Mullainathan: i want you to do it fast and say it out loud with me and do it quickly, Sendhil Mullainathan: i'll make the first one easy for you, Sendhil Mullainathan: ready black",
-        "C_completeness": "complete",
         "X_text": "red (audience laughs)",
         "X_speaker": "Sendhil Mullainathan",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker instructs the audience to respond quickly and say words out loud together, emphasizing speed.",
@@ -360,10 +359,10 @@
         "id": "3074",
         "source": "TED",
         "C_text": "Suzanne Talhouk: isn't one two or three words or letters put together, Suzanne Talhouk: it's an idea inside that relates to how we think and how we see each other and how others see us, Suzanne Talhouk: what is our intellect how do you say whether this guy understands or not so if i say freedom sovereignty independence or if your son came up to you and said dad have you lived through the period of the freedom slogan how would you feel if you don't see a problem then i'd better leave and stop talking in vain, Suzanne Talhouk: the idea is that these expressions remind us of a specific thing, Suzanne Talhouk: i have a friend who's married to a french man, Suzanne Talhouk: i asked her once how things were going",
-        "C_completeness": "complete",
         "X_text": "she said everything is fine but once i spent a whole night asking and trying to translate the meaning of the word for him (audience laughs)",
         "X_speaker": "Suzanne Talhouk",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker argues that words are not just combinations of letters but carry cultural and emotional meaning tied to identity and shared understanding.",
@@ -394,10 +393,10 @@
         "id": "3075",
         "source": "TED",
         "C_text": "Suzanne Talhouk: he was puzzled by the thought how could anyone be this cruel does she want to commit suicide this is one of the few examples, Suzanne Talhouk: it made us feel that she's unable to tell that word to her husband since he won't understand and he's right not to his way of thinking is different, Suzanne Talhouk: she said to me he listens to with me and one night i tried to translate for him so he can feel what i feel when i listen to",
-        "C_completeness": "complete",
         "X_text": "the poor woman tried to translate this for him from them i extended my hands and stole you and here's the pickle and because you belong to them i returned my hands and left you (audience laughs)",
         "X_speaker": "Suzanne Talhouk",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker describes a husband who is confused by the emotional meaning of certain words or expressions, and a wife who tries to translate them so he can feel what she feels.",
@@ -428,10 +427,10 @@
         "id": "4278",
         "source": "TED",
         "C_text": "Cathy ONeil: dylan on the right out of, Cathy ONeil: out of high risk, Cathy ONeil: out of low risk, Cathy ONeil: they both had records but dylan had a felony but bernard didn't, Cathy ONeil: this matters because the higher score you are the more likely you're being given a longer sentence, Cathy ONeil: what's going on data laundering, Cathy ONeil: it's a process by which technologists hide ugly truths inside black box algorithms and call them objective call them",
-        "C_completeness": "complete",
         "X_text": "when they're secret important and destructive i've coined a term for these algorithms weapons of math destruction (audience laughs)",
         "X_speaker": "Cathy ONeil",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker discusses algorithmic risk scoring in criminal justice and argues that supposedly objective systems can hide harmful biases.",
@@ -463,10 +462,10 @@
         "id": "4580",
         "source": "TED",
         "C_text": "Peter Ward: you know you're gazing upon your very distant ancestors, Peter Ward: these are mammal like reptiles, Peter Ward: they are culturally invisible, Peter Ward: this is a or a gorgon, Peter Ward: that's an long skull of an animal that was probably seven or eight feet sprawled like a lizard probably had a head like a lion, Peter Ward: this is the top carnivore the t rex of its time",
-        "C_completeness": "complete",
         "X_text": "this is my poor son patrick (audience laughs)",
         "X_speaker": "Peter Ward",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker is describing ancient mammal-like reptiles in a serious, scientific tone, emphasizing their size and status as top carnivores, even calling one the \"t rex of its time\".",
@@ -499,10 +498,10 @@
         "id": "4771",
         "source": "TED",
         "C_text": "Ross Lovegrove: healthy products, Ross Lovegrove: this is built by composites, Ross Lovegrove: it's a single element which rotates around to create a holistic element and this is a carbon fiber handrail which is only supported in two places, Ross Lovegrove: this is a shot in the studio, Ross Lovegrove: this is how it looks pretty much every day",
-        "C_completeness": "complete",
         "X_text": "it doesn't pass any standards (audience laughs)",
         "X_speaker": "Ross Lovegrove",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker describes a carefully designed carbon fiber handrail, emphasizing its innovative structure and aesthetic qualities.",
@@ -534,10 +533,10 @@
         "id": "4834",
         "source": "TED",
         "C_text": "Anna Deavere Smith: so these four characters are going to be from that work that i've been doing for many years now and well over i don't know a couple of thousand people i've interviewed, Anna Deavere Smith: anybody out here old enough to know studs terkel that old radio man so i thought he would be the perfect person to go to to ask about a defining moment in american history, Anna Deavere Smith: you know he was born in the year the titanic sank greatest ship every built, Anna Deavere Smith: hits the tip of an iceberg and bam it went down, Anna Deavere Smith: it went down and i came up",
-        "C_completeness": "complete",
         "X_text": "wow some century (audience laughs)",
         "X_speaker": "Anna Deavere Smith",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker references Studs Terkel, noting he was born the year the Titanic sank, describing it as the greatest ship ever built that quickly went down.",
@@ -569,10 +568,10 @@
         "id": "5213",
         "source": "TED",
         "C_text": "Sheryl WuDunn: they have a hut that has no electricity no running water no wristwatch no bicycle, Sheryl WuDunn: and they share this great splendor with a very large pig, Sheryl WuDunn: dai was in sixth grade when her parents said we're going to pull you out of school because the school fees are too much for us, Sheryl WuDunn: you're going to be spending the rest of your life in the rice paddies, Sheryl WuDunn: why would we waste this money on you this is what happens to girls in remote areas, Sheryl WuDunn: turns out that dai was the best pupil in her grade, Sheryl WuDunn: she still made the two hour trek to the schoolhouse and tried to catch every little bit of information that seeped out of the doors, Sheryl WuDunn: we wrote about her in the new york times",
-        "C_completeness": "complete",
         "X_text": "we got a flood of donations mostly checks because new york times readers are very generous in tiny amounts but then we got a money transfer for really nice guy (audience laughs)",
         "X_speaker": "Sheryl WuDunn",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker describes a serious and emotional story about a girl pulled out of school due to poverty, emphasizing hardship and injustice.",
@@ -606,10 +605,10 @@
         "id": "6364",
         "source": "TED",
         "C_text": "Rana el Kaliouby: do we do that we give our algorithms tens of thousands of examples of people we know to be smiling from different ages genders and we do the same for smirks, Rana el Kaliouby: and then using deep learning the algorithm looks for all these textures and wrinkles and shape changes on our face and basically learns that all smiles have common characteristics all smirks have subtly different characteristics, Rana el Kaliouby: and the next time it sees a new face it essentially learns that this face has the same characteristics of a smile and it says aha i recognize this, Rana el Kaliouby: this is a smile expression",
-        "C_completeness": "complete",
         "X_text": "so the best way to demonstrate how this technology works is to try a live demo so i need a volunteer preferably somebody with a face (audience laughs)",
         "X_speaker": "Rana el Kaliouby",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker explains in technical detail how algorithms are trained to recognize facial expressions such as smiles and smirks.",
@@ -642,10 +641,10 @@
         "id": "6407",
         "source": "TED",
         "C_text": "Rainer Strack: technology will replace a lot of jobs regular jobs, Rainer Strack: not only in the production industry but even office workers are in jeopardy and might be replaced by robots artificial intelligence big data or automation, Rainer Strack: so the key question is not if technology replaces some of these jobs but when how fast and to what extent or in other words will technology help us to solve this global workforce crisis yes and no",
-        "C_completeness": "complete",
         "X_text": "this is a more sophisticated version of it depends (audience laughs)",
         "X_speaker": "Rainer Strack",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker discusses the serious issue of technology replacing jobs and frames the answer to whether technology will solve the workforce crisis as \"yes and no\".",
@@ -678,10 +677,10 @@
         "id": "6868",
         "source": "TED",
         "C_text": "Will Marshall: i'm going to show you a video from just four weeks ago of two of our satellites being launched from the international space station, Will Marshall: this is not an animation this is a video taken by the astronaut looking out of the window, Will Marshall: it gives you a bit of a sense of scale of our two satellites, Will Marshall: it's like some of the smallest satellites ever are being launched from the biggest satellite ever, Will Marshall: and right at the end the solar array in the sun, Will Marshall: it's really cool",
-        "C_completeness": "complete",
         "X_text": "it's the money shot (audience laughs)",
         "X_speaker": "Will Marshall",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker enthusiastically describes a real video of tiny satellites being launched from the International Space Station, emphasizing scale and calling the final moment \"really cool.\"",
@@ -714,10 +713,10 @@
         "id": "7112",
         "source": "TED",
         "C_text": "Rives TTYL: seven different salts, Rives TTYL: he means he's got this sudden notion to stand on dry land but just panhandle at the ocean, Rives TTYL: and the girl goes so the guy replies yeah i know i know, Rives TTYL: i think my heartbeat might be the morse code for inappropriate, Rives TTYL: at least that's how it seems, Rives TTYL: i'm like a junior varsity cheerleader sometimes for swearing awkward silences and very simple rhyme schemes, Rives TTYL: right now talking to you i'm not even really a guy",
-        "C_completeness": "complete",
         "X_text": "i'm a monkey blowing kisses at a butterfly (audience laughs)",
         "X_speaker": "Rives TTYL",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker uses poetic and metaphorical language, describing himself in self-deprecating and abstract ways, such as \"i think my heartbeat might be the morse code for inappropriate\" and \"i'm like a junior varsity cheerleader\".",
@@ -751,10 +750,10 @@
         "id": "8795",
         "source": "TED",
         "C_text": "Jeff Speck: final argument in this topic is that i think we're trying to be green the wrong way and i'm one of many people who believes that this focus on gadgets on what can i add to my house what can i add to what i've already got to make my lifestyle more sustainable has kind of dominated the discussion, Jeff Speck: so i'm not immune to this, Jeff Speck: my wife and i built a new house on an abandoned lot in washington d, Jeff Speck: and we did our best to clear the shelves of the sustainability store, Jeff Speck: a log burning in my german high tech stove apparently supposedly contributes less carbon to the atmosphere than were it left alone to decompose in the forest",
-        "C_completeness": "complete",
         "X_text": "yet all of these innovations that's what they said in the brochure (audience laughs)",
         "X_speaker": "Jeff Speck",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker critiques the tendency to focus on adding \"green\" gadgets to make lifestyles more sustainable.",
@@ -788,10 +787,10 @@
         "id": "8920",
         "source": "TED",
         "C_text": "Todd Humphreys: imagine what we could do with a world full of dots, Todd Humphreys: it's not just that you'll never lose your wallet or your keys anymore or your child when you're at disneyland, Todd Humphreys: you'll buy dots in bulk and you'll stick them on everything you own worth more than a few tens of dollars, Todd Humphreys: i couldn't find my shoes one recent morning and as usual had to ask my wife if she had seen them, Todd Humphreys: but i shouldn't have to bother my wife with that kind of triviality",
-        "C_completeness": "complete",
         "X_text": "i should be able to ask my house where my shoes are (audience laughs)",
         "X_speaker": "Todd Humphreys",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker describes a future where tracking \"dots\" are attached to everyday objects so they can be easily located.",
@@ -825,10 +824,10 @@
         "id": "8921",
         "source": "TED",
         "C_text": "Todd Humphreys: i've talked to them too and same story, Todd Humphreys: we then talked about her coming to my lab and us performing a radio sweep of her car but i wasn't even sure that would work given that some of these devices are configured to only transmit when they're inside safe zones or when the car is moving, Todd Humphreys: so there we were, Todd Humphreys: carol isn't the first and certainly won't be the last to find herself in this kind of fearsome environment worrisome situation caused by tracking",
-        "C_completeness": "complete",
         "X_text": "the supreme court ruled last month that a policeman has to get a warrant if he wants to do prolonged tracking but the law isn't clear about civilians doing this to one another so it's not just big brother we have to worry about but big neighbor (audience laughs)",
         "X_speaker": "Todd Humphreys",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker describes a serious and \"fearsome\" situation involving tracking devices and privacy concerns.",
@@ -862,10 +861,10 @@
         "id": "9161",
         "source": "TED",
         "C_text": "Nagin Cox: so one day you come in at the next day minutes later at the next day minutes later at the next day at, Nagin Cox: so you keep moving minutes every day until soon you're coming to work in the middle of the night the middle of the earth night, Nagin Cox: right so you can imagine how confusing that is",
-        "C_completeness": "complete",
         "X_text": "hence the mars watch (audience laughs)",
         "X_speaker": "Nagin Cox",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker explains a schedule that shifts by minutes each day, eventually causing people to come to work in the middle of the night.",
@@ -899,10 +898,10 @@
         "id": "9167",
         "source": "TED",
         "C_text": "Nagin Cox: but of course it's so there's an app for that, Nagin Cox: so now instead of the watches we can also use our phones, Nagin Cox: but the impact on families was just across the board it wasn't just those of us who were working on the but our families as well, Nagin Cox: this is david oh one of our flight directors and he's at the beach in los angeles with his family at in the morning, Nagin Cox: so because we landed in august and his kids didn't have to go back to school until september they actually went on to mars time with him for one month, Nagin Cox: they got up minutes later every day, Nagin Cox: and they were on dad's work schedule, Nagin Cox: so they lived on mars time for a month and had these great adventures like going bowling in the middle of the night or going to the beach",
-        "C_completeness": "complete",
         "X_text": "and one of the things that we all discovered is you can get anywhere in los angeles at in the morning when there's no traffic (audience laughs)",
         "X_speaker": "Nagin Cox",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker explains how working on \"mars time\" shifts daily schedules, affecting not only employees but also their families.",
@@ -937,10 +936,10 @@
         "id": "9168",
         "source": "TED",
         "C_text": "Nagin Cox: so we would get off work and we didn't want to go home and bother our families and we were hungry so instead of going locally to eat something we'd go wait there's this great all night deli in long beach and we can get there in minutes so we would drive down it was like the no traffic, Nagin Cox: we would drive down there and the restaurant owners would go who are you people and why are you at my restaurant at in the morning so they came to realize that there were these packs of martians roaming the la freeways in the middle of the night in the middle of the earth night, Nagin Cox: and we did actually start calling ourselves martians",
-        "C_completeness": "complete",
         "X_text": "so those of us who were on mars time would refer to ourselves as martians and everyone else as earthlings (audience laughs)",
         "X_speaker": "Nagin Cox",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker describes people working on \"mars time\" staying up through the night, driving on empty Los Angeles freeways, and confusing restaurant owners by showing up at very early hours.",
@@ -974,10 +973,10 @@
         "id": "9553",
         "source": "TED",
         "C_text": "eL Seed: the house of uncle and was this kind of meeting point, eL Seed: everybody used to gather there, eL Seed: i think this is what uncle ibrahim meant when he said that was a project of peace and unity because i really felt that people were coming together, eL Seed: sometime you are at the first level of a building and somebody opens his window and offers you some tea",
-        "C_completeness": "complete",
         "X_text": "and you keep going all the way to the top (audience laughs)",
         "X_speaker": "eL Seed",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker describes a sense of community where people gather and interact warmly, such as someone opening a window and offering tea.",
@@ -1011,10 +1010,10 @@
         "id": "10132",
         "source": "TED",
         "C_text": "Al Gore: we are regularly surprised by these developments, Al Gore: the late rudi dornbusch the great economist said things take longer to happen then you think they will and then they happen much faster than you thought they could, Al Gore: i really think that's where we are, Al Gore: some people are using the phrase the solar now meaning when it gets below the grid parity unsubsidized in most places then it's the default choice, Al Gore: now in one of the presentations yesterday the jitney thing there is an effort to use regulations to slow this down, Al Gore: and i just don't think it's going to work, Al Gore: there's a woman in atlanta debbie dooley who's the chairman of the atlanta tea party, Al Gore: they enlisted her in this effort to put a tax on solar panels and regulations",
-        "C_completeness": "complete",
         "X_text": "and she had just put solar panels on her roof and she didn't understand the request (audience laughs)",
         "X_speaker": "Al Gore",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker discusses attempts to use regulations and taxes to slow down the adoption of solar energy.",
@@ -1047,10 +1046,10 @@
         "id": "10162",
         "source": "TED",
         "C_text": "OK Go: it's terrible actually, OK Go: the numbers say so, OK Go: the chance of getting all things to not fail at the same time is, OK Go: so calculate that out and you get",
-        "C_completeness": "complete",
         "X_text": "which is one ten thousandth of one percent so your chance for success is literally one in a million (audience laughs)",
         "X_speaker": "OK Go",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker frames the situation as \"terrible\" and says that the numbers show the chance of everything not failing at the same time is extremely low.",
@@ -1084,10 +1083,10 @@
         "id": "10163",
         "source": "TED",
         "C_text": "OK Go: upshot of all this is that if your project is pretty complex like you know every ambitious project is if you've got a lot of moving parts you're basically constrained to just reshuffling ideas that have already demonstrably proven that they're percent reliable, OK Go: so now go back to me sitting with my thumb in the air trying to line up something surprising, OK Go: if the only things i'm allowed to consider in the first place are ideas that have already been done over and over and over again i am screwed, OK Go: however there are ways around this because we all know that there are tons of untried ideas still out there and plenty of them will turn out to be every bit as reliable as we need it's just that we don't yet know they are reliable when we are at this planning phase, OK Go: so what we do is we try to identify some place where there might just be a ton of those untried ideas",
-        "C_completeness": "complete",
         "X_text": "we try to find a sandbox and then we gamble a whole bunch of our resources on getting in that sandbox and playing (audience laughs)",
         "X_speaker": "OK Go",
         "Y": 1,
+        "C_completeness": "complete",
         "R": {
             "reasoning_steps": [
             "Step 1: In the context (C), the speaker explains that complex projects are constrained to using ideas that are already proven reliable, which limits creativity.",

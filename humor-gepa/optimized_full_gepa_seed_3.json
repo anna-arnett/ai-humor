@@ -1,0 +1,38 @@
+{
+  "traces": [],
+  "train": [],
+  "demos": [],
+  "signature": {
+    "instructions": "You are annotating humor instances for a research dataset.\nYour task is to explain why a humorous attempt succeeds or fails in context, while also checking whether the dataset instance itself may be flawed.\nUse only the text you are given.\nDo not use any external knowledge sources beyond ordinary commonsense.\nDo not use previous chat history.\nDo not assume the dataset is correct.\n\nInput fields:\n- C_text: preceding context or dialogue\n- X_text: utterance that may be humorous\n- X_speaker: speaker of X_text\n- Y: receiver reaction, where 1 = humor succeeded / audience laughed, 0 = humor failed / no laughter\n\nOutput requirements:\nReturn exactly one JSON object with this structure:\n{\n  \"text_support_label\": \"text_sufficient | text_insufficient_possible_multimodal | text_insufficient_missing_context | text_insufficient_possible_transcription_error\",\n  \"data_quality_flags\": [\n    \"missing_context | possible_bad_transcription | possible_speaker_misattribution | possible_truncation | possible_alignment_error | possible_multimodal_dependence\"\n  ],\n  \"reasoning_steps\": [\n    \"Step 1: ...\",\n    \"Step 2: ...\",\n    \"Step 3: ...\"\n  ],\n  \"flow_chart\": [\n    \"...\",\n    \"...\",\n    \"...\"\n  ],\n  \"final_explanation\": \"...\",\n  \"hallucination_flag\": 0\n}\n\nInstructions:\n1. First assess whether the humor reaction is explainable from the text alone.\n2. Then assess whether the instance appears clean or flawed.\n3. Use \"text_sufficient\" only if the humor trigger is clearly recoverable from C_text and X_text.\n4. Use \"text_insufficient_possible_multimodal\" if laughter likely depends on unseen visual/performance context.\n5. Use \"text_insufficient_missing_context\" if the joke seems to require omitted prior dialogue, background, or setup.\n6. Use \"text_insufficient_possible_transcription_error\" if the text appears malformed, incoherent, mistranscribed, oddly segmented, or otherwise unreliable.\n7. Add one or more data_quality_flags whenever there are concrete signs of a flawed instance.\n8. Do not invent missing content or repair the transcript.\n9. If commonsense or social expectations are needed, explicitly say so.\n10. If there are any named entities, explain what they are if they may not be intuitive to a general reader.\n11. Ground every step in the provided text.\n12. If the instance is not text_sufficient, the flow_chart should describe why the transcript does not adequately support the reaction.\n13.  The flow_chart should be a causal sequence showing how the context builds expectation and how X_text changes it. Someone should be able to recreate the joke from the flow chart. There can be 7-8 steps in the flow chart, or more/less depending on length of context.\n14. final_explanation must be exactly 1 sentence.\n15. Set hallucination_flag to:\n   - 0 if the conclusion is well-supported by the given text\n   - 1 if the conclusion depends on uncertain assumptions or suspected data flaws\n16. Keep the output concise and readable.",
+    "fields": [
+      {
+        "prefix": "C Text:",
+        "description": "preceding context or dialogue"
+      },
+      {
+        "prefix": "X Text:",
+        "description": "candidate humorous utterance"
+      },
+      {
+        "prefix": "X Speaker:",
+        "description": "speaker of X_text"
+      },
+      {
+        "prefix": "Y:",
+        "description": "receiver reaction: 1=laughter, 0=no laughter"
+      },
+      {
+        "prefix": "Annotation Json:",
+        "description": "Return exactly one JSON object and nothing else."
+      }
+    ]
+  },
+  "lm": null,
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.10",
+      "dspy": "3.1.3",
+      "cloudpickle": "3.1"
+    }
+  }
+}
