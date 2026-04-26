@@ -1,0 +1,1025 @@
+[
+    {
+        "id": "414",
+        "source": "TED",
+        "C_text": [
+            "Patrick Chappatte: he was taking pictures of me and of my sketches and i thought this is great a vietnamese fan",
+            "Patrick Chappatte: and as he came the second day i thought wow that's really a cartoon lover",
+            "Patrick Chappatte: and on the third day i finally understood the guy was actually on duty"
+        ],
+        "C_completeness": "complete",
+        "X_text": "so by now there must be a hundred pictures of me smiling with my sketches in the files of the vietnamese police",
+        "X_speaker": "Patrick Chappatte",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+                "Step 1: In the context (C), the speaker describes initially believing a man photographing him was an enthusiastic fan of his sketches.",
+                "Step 2: The speaker then realizes on the third day that the man was “actually on duty,” implying he was not a fan but working in an official capacity.",
+                "Step 3: The final remark (X) concludes that there must now be many photos of him smiling with his sketches in the files of the Vietnamese police.",
+                "Step 4: Commonsense knowledge: police “files” typically contain surveillance or official records, not celebratory fan photos; this creates an incongruity between the speaker’s cheerful posing and the serious context of police documentation.",
+                "Step 5: The humor arises from the contrast between the speaker’s innocent, proud behavior (smiling for a presumed fan) and the later realization that he was unknowingly contributing to police surveillance records.",
+                "Step 6: This unexpected reinterpretation of earlier events (a benign fan interaction reframed as official monitoring) creates a punchline through irony and surprise, leading to laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Initial assumption",
+                "Pattern reinforces expectation",
+                "New information introduced",
+                "Reinterpretation of prior events",
+                "Incongruity detected",
+                "Frame contrast",
+                "Irony emerges",
+                "Laughter"
+            ],
+            "final_explanation": "The humor succeeds because the speaker humorously contrasts his cheerful posing for a supposed fan with the ironic realization that the photos were likely for police records, creating an unexpected and ironic twist.",
+            "hallucination_flag": 0
+            },
+        "Z": null
+    },
+    
+    {
+        "id": "474",
+        "source": "TED",
+        "C_text": [
+            "Randall Munroe: so for example one person asked what would happen if you tried to hit a baseball pitched at percent of the speed of light so i did some calculations",
+            "Randall Munroe: now normally when an object flies through the air the air will flow around the object but in this case the ball would be going so fast that the air molecules wouldn't have time to move out of the way",
+            "Randall Munroe: the ball would smash right into and through them and the collisions with these air molecules would knock away the nitrogen carbon and hydrogen from the ball fragmenting it off into tiny particles and also triggering waves of thermonuclear fusion in the air around it",
+            "Randall Munroe: this would result in a flood of x rays that would spread out in a bubble along with exotic particles plasma inside centered on the mound and that would move away from the mound slightly faster than the ball"
+          ],
+        "C_completeness": "complete",
+        "X_text": "now at this point about nanoseconds in the home plate is far enough away that light hasn't had time to reach it which means the batter still sees the pitcher about to throw and has no idea that anything is wrong",
+        "X_speaker": "Randall Munroe",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+                "Step 1: In the context (C), the speaker scientifically explains that a baseball traveling near the speed of light would cause extreme physical effects, including fragmentation, thermonuclear fusion, X-rays, plasma, and exotic particles.",
+                "Step 2: Commonsense knowledge: such effects imply a massive, catastrophic explosion-like event at the pitcher’s mound, far beyond normal baseball expectations.",
+                "Step 3: In the final remark (X), the speaker notes that only nanoseconds have passed and that light has not yet reached home plate, so the batter still calmly sees the pitcher about to throw.",
+                "Step 4: Commonsense knowledge: light has a finite speed, so distant observers experience slight delays; however, in everyday life this delay is imperceptible and irrelevant.",
+                "Step 5: The humor comes from juxtaposing an apocalyptic scientific scenario with the mundane image of a batter casually waiting, completely unaware of the catastrophic destruction already underway.",
+                "Step 6: This contrast between catastrophic reality and ordinary perception creates irony and absurdity, producing laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Technical setup",
+                "Escalation to extreme outcome",
+                "Expectation of dramatic consequence",
+                "Perspective shift introduced",
+                "Ordinary perception maintained",
+                "Scale mismatch exposed",
+                "Irony",
+                "Laughter"
+            ],
+            "final_explanation": "The joke succeeds because it contrasts a scientifically catastrophic event with the batter’s completely normal perception due to light-delay, creating ironic absurdity between massive destruction and calm unawareness.",
+            "hallucination_flag": 0
+        }
+    },
+
+    {
+        "id": "866",
+        "source": "TED",
+        "C_text": "a few times a year they tell their engineers go for the next hours and work on anything you want as long as it's not part of your regular job work on anything you want engineers use this time to come up with a cool patch for code come up with an elegant hack being australians everybody has a beer they call them fedex days",
+        "C_completeness": "complete",
+        "X_text": "it's a huge trademark violation but it's pretty clever",
+        "X_speaker": "Daniel Pink",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+                "Step 1: In the context (C), the speaker describes a company practice where engineers get a block of time to work on anything they want outside their regular duties, often producing “cool” or “elegant” hacks, with a casual, fun vibe (including “everybody has a beer”).",
+                "Step 2: The context ends with the label “fedex days,” which implies they named these freeform innovation days after “FedEx” (a well-known brand name).",
+                "Step 3: Commonsense/cultural knowledge: using a famous company’s brand name for your own internal event can be considered a trademark issue (“trademark violation”).",
+                "Step 4: The final remark (X) frames the naming as both legally dubious (“huge trademark violation”) and admirable (“pretty clever”).",
+                "Step 5: The humor comes from the mild transgression being acknowledged openly and then immediately reframed as ingenuity, matching the playful “hack” culture described in C.",
+                "Step 6: Missing knowledge: C does not explicitly explain why “fedex days” is clever (the specific wordplay or intended meaning isn’t stated), so the reasoning can only ground the cleverness in the general idea of cheekily borrowing a brand name."
+            ],
+            "flow_chart": [
+                "Playful practice introduced",
+                "Creative label revealed",
+                "Implicit rule violation",
+                "Norm vs transgression contrast",
+                "Self-aware acknowledgment",
+                "Mild wrongdoing reframed as cleverness",
+                "Irony",
+                "Laughter"
+            ],
+            "final_explanation": "The humor succeeds because the speaker highlights a cheeky, potentially improper use of a famous trademark and then treats it as inventive, fitting the playful hacker culture described in the setup.",
+            "hallucination_flag": 0
+        }
+    },
+
+    {
+        "id": "1013",
+        "source": "TED",
+        "C_text": "David Griffin: so what she did was she started to bring penguins to him alive and put them in front of him, David Griffin: she dropped them off and then they would swim away, David Griffin: she'd kind of look at him like what are you doing go back and get them and then bring them back and drop them in front of him",
+        "C_completeness": "complete",
+        "X_text": "and she did this over the course of a couple of days until the point where she got so frustrated with him that she started putting them directly on top of his head (audience laughs)",
+        "X_speaker": "David Griffin",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+                "Step 1: In the context (C), a female penguin repeatedly brings live penguins to a male penguin, drops them in front of him, and appears to expect him to respond appropriately.",
+                "Step 2: The description “she’d kind of look at him like what are you doing” attributes human-like frustration and intention to the penguin (anthropomorphism).",
+                "Step 3: Over several days, the male does not respond as expected, building a pattern of failed attempts and increasing implied frustration.",
+                "Step 4: In the final remark (X), the female penguin escalates her behavior by placing the penguins directly on top of his head.",
+                "Step 5: Commonsense knowledge: placing objects on someone’s head is an exaggerated, almost cartoonish way of expressing frustration, especially after repeated failed attempts.",
+                "Step 6: The humor arises from the escalation and the human-like portrayal of annoyance, culminating in an absurd and vivid image, which triggers laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Repeated attempt",
+                "Expectation of response",
+                "Failure persists",
+                "Escalating frustration",
+                "Behavior intensifies",
+                "Absurd visual image",
+                "Exaggeration",
+                "Laughter"
+              ],
+            "final_explanation": "The joke succeeds because it builds on repeated failed attempts and anthropomorphized frustration, culminating in the exaggerated and absurd image of the penguin dropping prey directly on his head.",
+            "hallucination_flag": 0
+        }
+    },
+
+    {
+        "id": "1166",
+        "source": "TED",
+        "C_text": "Liza Donnelly: i was afraid of womanhood, Liza Donnelly: not that i'm not afraid now but i've learned to pretend, Liza Donnelly: i've learned to be flexible, Liza Donnelly: in fact i've developed some interesting tools to help me deal with this fear",
+        "C_completeness": "complete",
+        "X_text": "back in the and when i was growing up little girls were supposed to be kind and thoughtful and pretty and gentle and soft and we were supposed to fit into roles that were sort of shadowy really not quite clear what we were supposed to be (audience laughs)",
+        "X_speaker": "Liza Donnelly",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+                "Step 1: In the context (C), the speaker discusses being afraid of womanhood and developing “tools” to cope with that fear, setting up a reflective and somewhat serious tone.",
+                "Step 2: In the final remark (X), she describes the expectations placed on girls while growing up: to be kind, thoughtful, pretty, gentle, soft, and to fit into vague “shadowy” roles.",
+                "Step 3: Commonsense/cultural knowledge: social expectations for women have historically been restrictive and sometimes contradictory or unclear.",
+                "Step 4: The phrase “shadowy really not quite clear what we were supposed to be” highlights the vagueness and inconsistency of these expectations.",
+                "Step 5: The humor arises from pointing out this contradiction—girls were expected to conform strictly, yet the roles themselves were ill-defined.",
+                "Step 6: The audience laughter (Y = 1) likely results from recognition of this shared social absurdity and the understated way it is described."
+            ],
+            "flow_chart": [
+                "Personal vulnerability introduced",
+                "Social norms described",
+                "Expectation of clarity",
+                "Vagueness revealed",
+                "Internal contradiction exposed",
+                "Shared recognition",
+                "Irony",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because it exposes the contradiction of rigid yet vague expectations placed on girls, and the audience recognizes the absurdity in being told to conform to roles that were never clearly defined.",
+            "hallucination_flag": 0
+        }
+    },
+
+    {
+        "id": "1181",
+        "source": "TED",
+        "C_text": "Boyd Varty: mandela said often that the gift of prison was the ability to go within and to think to create in himself the things he most wanted for south africa peace reconciliation harmony, Boyd Varty: through this act of immense open he was to become the embodiment of what in south africa we call, Boyd Varty: i am because of you, Boyd Varty: or people are not people without other people, Boyd Varty: in fact it is said that in the collective consciousness of africa we get to experience the deepest parts of our own humanity through our interactions with others, Boyd Varty: is at play right now",
+        "C_completeness": "complete",
+        "X_text": "without you i'm just a guy talking to an empty room and i spent a lot of time last week doing that and it's not the same as this (audience laughs)",
+        "X_speaker": "Boyd Varty",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker discusses Mandela’s philosophy of interconnectedness, emphasizing that people become fully human through relationships with others.",
+            "Step 2: The tone is reflective and elevated, focusing on collective consciousness and shared humanity.",
+            "Step 3: In the final remark (X), the speaker applies this philosophical idea to the immediate setting, stating that without the audience he would just be a man talking to an empty room.",
+            "Step 4: Commonsense knowledge: public speaking depends on having an audience; speaking to an empty room feels pointless or awkward.",
+            "Step 5: The phrase about spending time last week talking to an empty room humorously contrasts the grand theme of human interconnectedness with a mundane, relatable experience.",
+            "Step 6: The humor arises from this sudden shift from profound philosophy to self-deprecating reality, creating a light, relatable punchline that prompts laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Elevated philosophical framing",
+                "Abstract principle emphasized",
+                "Application to present moment",
+                "Shift to mundane reality",
+                "Self-deprecation introduced",
+                "Grand vs ordinary contrast",
+                "Incongruity",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because the speaker moves from a lofty reflection on human interconnectedness to a self-deprecating comment about rehearsing alone, creating an unexpected and relatable contrast.",
+            "hallucination_flag": 0
+            }            
+    },
+
+    {
+        "id": "1186",
+        "source": "TED",
+        "C_text": "Boyd Varty: pat, Boyd Varty: i'm so happy because it was time for him to pass on",
+        "C_completeness": "minimal",
+        "X_text": "but i just think of so many occurrences like the time he went on the oprah show and asked her what the show would be about (audience laughs)",
+        "X_speaker": "Boyd Varty",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker expresses a serious and emotional sentiment, saying he was happy because it was time for someone to pass on, implying a reflective moment about death.",
+            "Step 2: The tone established in C is solemn and respectful.",
+            "Step 3: In the final remark (X), the speaker abruptly shifts to a humorous anecdote about this person going on The Oprah Show and asking Oprah what the show would be about.",
+            "Step 4: Commonsense/cultural knowledge: The Oprah Show is widely known, and Oprah is strongly associated with her own show, so asking her what the show would be about seems oblivious or ironic.",
+            "Step 5: The humor comes from the incongruity between the serious setup about passing on and the light, slightly absurd anecdote about a socially awkward or naïve moment.",
+            "Step 6: This tonal shift combined with the recognizable absurdity of the situation produces laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Solemn emotional setup",
+                "Expectation of continued gravity",
+                "Abrupt anecdotal shift",
+                "Mild absurdity introduced",
+                "Serious vs trivial contrast",
+                "Incongruity",
+                "Release of tension",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because a solemn reflection about someone’s passing is followed by an unexpected, ironic anecdote about asking Oprah what her own show would be about, creating a sharp and playful contrast.",
+            "hallucination_flag": 0
+            }            
+      },
+
+    {
+        "id": "1243",
+        "source": "TED",
+        "C_text": "Dena Simmons: there is emotional damage done when young people can't be themselves when they are forced to edit who they are in order to be acceptable, Dena Simmons: it's a kind of violence, Dena Simmons: ultimately i'm a quintessential success story, Dena Simmons: i attended boarding school and college in new england studied abroad in chile and returned to the bronx to be a middle school teacher, Dena Simmons: i received a truman scholarship a fulbright and a soros fellowship",
+        "C_completeness": "complete",
+        "X_text": "and i could list more (audience laughs)",
+        "X_speaker": "Dena Simmons",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker discusses serious themes about emotional harm and identity suppression, establishing a thoughtful and weighty tone.",
+            "Step 2: She then lists a series of prestigious accomplishments and scholarships, building an image of exceptional academic and professional success.",
+            "Step 3: The list is already extensive and impressive, creating a sense of completeness and possibly excess.",
+            "Step 4: In the final remark (X), she adds, \"and i could list more,\" implying there are even additional achievements beyond those already mentioned.",
+            "Step 5: Commonsense knowledge: continuing to enumerate one’s own accolades can come across as boastful or exaggerated.",
+            "Step 6: The humor arises from her self-aware acknowledgment of how extensive the list sounds, lightly undercutting the seriousness and potential self-importance of the résumé-like recitation, prompting audience laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Serious thematic framing",
+                "Impressive credential listing",
+                "Expectation of completion",
+                "Excess implied",
+                "Self-awareness introduced",
+                "Potential boast undercut",
+                "Irony",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because after listing numerous prestigious achievements, she self-awarely notes she could continue, playfully highlighting the excess and defusing any sense of self-importance.",
+            "hallucination_flag": 0
+            }
+            
+    },
+
+    {
+        "id": "2041",
+        "source": "TED",
+        "C_text": "Tiq Milan and Kim Milan: my mother's biggest concern when i was who was going to love me as i am, Tiq Milan and Kim Milan: had being somehow precluded me from love and monogamy because i was supposedly born in the wrong body but it's this type of structuring that has to be in order to let love in, Tiq Milan and Kim Milan: my body never betrayed me and my body was never wrong, Tiq Milan and Kim Milan: it's this restrictive binary thinking on gender that said that i didn't exist, Tiq Milan and Kim Milan: but when we met she loved me for exactly how i showed up, Tiq Milan and Kim Milan: she would trace her fingers along the numb scars left by my top surgery, Tiq Milan and Kim Milan: scars that run from the middle of my chest all the way out to my outer torso, Tiq Milan and Kim Milan: she said that these were reminders of my strength and everything that i went through and nothing for me to be ashamed of",
+        "C_completeness": "complete",
+        "X_text": "so sprinting towards her hand in marriage was the thing that i could do (audience laughs)",
+        "X_speaker": "Tiq Milan and Kim Milan",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker shares a deeply personal and emotional story about identity, love, acceptance, and overcoming restrictive gender norms.",
+            "Step 2: The tone is intimate and serious, especially when describing scars from surgery and their partner reframing them as symbols of strength.",
+            "Step 3: This builds toward a romantic and heartfelt narrative about being fully accepted and loved.",
+            "Step 4: In the final remark (X), the speaker says \"sprinting towards her hand in marriage,\" which plays on the common phrase \"asking for her hand in marriage.\"",
+            "Step 5: Commonsense knowledge: \"hand in marriage\" is a formal idiom for proposing; adding \"sprinting\" exaggerates eagerness in a playful, physical way.",
+            "Step 6: The humor arises from this sudden, energetic exaggeration after a tender moment, lightening the emotional weight with a vivid and slightly unexpected image, prompting laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Deep emotional setup",
+                "Vulnerability and acceptance",
+                "Romantic culmination expected",
+                "Idiom introduced",
+                "Exaggerated modifier added",
+                "Tender vs energetic contrast",
+                "Playful incongruity",
+                "Laughter"
+            ],
+            "final_explanation": "The humor succeeds because after an emotional and intimate story about acceptance and love, the speaker playfully exaggerates their eagerness to propose by saying they were \"sprinting\" toward marriage, creating a light and affectionate contrast.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "2464",
+        "source": "TED",
+        "C_text": "Sendhil Mullainathan: i want you to do it fast and say it out loud with me and do it quickly, Sendhil Mullainathan: i'll make the first one easy for you, Sendhil Mullainathan: ready black",
+        "C_completeness": "complete",
+        "X_text": "red (audience laughs)",
+        "X_speaker": "Sendhil Mullainathan",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker instructs the audience to respond quickly and say words out loud together, emphasizing speed.",
+            "Step 2: He begins with the word \"black\" and frames it as an easy first example.",
+            "Step 3: The audience is primed to respond automatically and quickly rather than reflectively.",
+            "Step 4: In the final remark (X), the next word given is \"red,\" which creates a rapid contrast with \"black.\"",
+            "Step 5: Commonsense knowledge: when prompted to respond quickly to color words in sequence, people may experience momentary cognitive interference or surprise, especially if expectations are disrupted.",
+            "Step 6: The humor arises from this quick, slightly jarring shift that exposes how automatic responses can be tripped up under time pressure, leading to laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Rapid-response instruction",
+                "Expectation of easy pattern",
+                "Cognitive priming",
+                "Sudden shift",
+                "Expectation disrupted",
+                "Brief confusion",
+                "Incongruity",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because the rapid switch from \"black\" to \"red\" under time pressure creates a small moment of cognitive disruption, playfully revealing how easily our automatic responses can be thrown off.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "3074",
+        "source": "TED",
+        "C_text": "Suzanne Talhouk: isn't one two or three words or letters put together, Suzanne Talhouk: it's an idea inside that relates to how we think and how we see each other and how others see us, Suzanne Talhouk: what is our intellect how do you say whether this guy understands or not so if i say freedom sovereignty independence or if your son came up to you and said dad have you lived through the period of the freedom slogan how would you feel if you don't see a problem then i'd better leave and stop talking in vain, Suzanne Talhouk: the idea is that these expressions remind us of a specific thing, Suzanne Talhouk: i have a friend who's married to a french man, Suzanne Talhouk: i asked her once how things were going",
+        "C_completeness": "complete",
+        "X_text": "she said everything is fine but once i spent a whole night asking and trying to translate the meaning of the word for him (audience laughs)",
+        "X_speaker": "Suzanne Talhouk",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker argues that words are not just combinations of letters but carry cultural and emotional meaning tied to identity and shared understanding.",
+            "Step 2: She emphasizes that certain expressions evoke deep, context-specific ideas that may not easily transfer across languages or cultures.",
+            "Step 3: She then introduces an anecdote about a friend married to a French man and asks how their relationship is going.",
+            "Step 4: In the final remark (X), the friend says everything is fine, but she once spent an entire night trying to translate the meaning of a word for him.",
+            "Step 5: Commonsense knowledge: married couples typically communicate fluidly; spending a whole night explaining one word suggests how difficult it can be to convey culturally embedded meaning across languages.",
+            "Step 6: The humor arises from the exaggeration and relatability of struggling to translate a deeply loaded word, reinforcing the earlier point about language carrying more than literal definitions, prompting laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Abstract concept explained",
+                "Emphasis on deep meaning",
+                "Cross-context example introduced",
+                "Communication challenge emerges",
+                "Effort escalates",
+                "Exaggerated duration",
+                "Relatable struggle",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because the anecdote humorously illustrates how culturally loaded words can be so hard to translate that someone might spend an entire night explaining just one, reinforcing the talk’s theme in a relatable way.",
+            "hallucination_flag": 0
+            }            
+      },
+
+      {
+        "id": "3075",
+        "source": "TED",
+        "C_text": "Suzanne Talhouk: he was puzzled by the thought how could anyone be this cruel does she want to commit suicide this is one of the few examples, Suzanne Talhouk: it made us feel that she's unable to tell that word to her husband since he won't understand and he's right not to his way of thinking is different, Suzanne Talhouk: she said to me he listens to with me and one night i tried to translate for him so he can feel what i feel when i listen to",
+        "C_completeness": "complete",
+        "X_text": "the poor woman tried to translate this for him from them i extended my hands and stole you and here's the pickle and because you belong to them i returned my hands and left you (audience laughs)",
+        "X_speaker": "Suzanne Talhouk",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker describes a husband who is confused by the emotional meaning of certain words or expressions, and a wife who tries to translate them so he can feel what she feels.",
+            "Step 2: The setup emphasizes the difficulty of conveying culturally embedded emotional meaning across languages.",
+            "Step 3: In the final remark (X), the speaker provides a literal-sounding translation: \"from them i extended my hands and stole you and here's the pickle and because you belong to them i returned my hands and left you\".",
+            "Step 4: Commonsense knowledge: literal translations of poetic or idiomatic phrases often sound awkward, nonsensical, or overly dramatic in another language.",
+            "Step 5: The phrasing in X sounds exaggerated and strange in English, highlighting how meaning can be distorted when translated word-for-word.",
+            "Step 6: The humor arises from the absurdity and clumsiness of the literal translation, which illustrates the earlier point about language and emotion not transferring cleanly, prompting laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Emotional meaning gap",
+                "Attempted translation",
+                "Literal rendering presented",
+                "Semantic distortion",
+                "Awkward phrasing",
+                "Absurd imagery",
+                "Incongruity",
+                "Laughter"
+            ],
+            "final_explanation": "The humor succeeds because the literal translation sounds awkward and absurd in English, vividly demonstrating how emotionally rich expressions can become unintentionally funny when translated word-for-word.",
+            "hallucination_flag": 0
+            }            
+      },
+
+      {
+        "id": "4278",
+        "source": "TED",
+        "C_text": "Cathy ONeil: dylan on the right out of, Cathy ONeil: out of high risk, Cathy ONeil: out of low risk, Cathy ONeil: they both had records but dylan had a felony but bernard didn't, Cathy ONeil: this matters because the higher score you are the more likely you're being given a longer sentence, Cathy ONeil: what's going on data laundering, Cathy ONeil: it's a process by which technologists hide ugly truths inside black box algorithms and call them objective call them",
+        "C_completeness": "complete",
+        "X_text": "when they're secret important and destructive i've coined a term for these algorithms weapons of math destruction (audience laughs)",
+        "X_speaker": "Cathy ONeil",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker discusses algorithmic risk scoring in criminal justice and argues that supposedly objective systems can hide harmful biases.",
+            "Step 2: The tone is serious, emphasizing secrecy, harm, and the destructive consequences of these algorithms.",
+            "Step 3: In the final remark (X), she says she coined the term \"weapons of math destruction\" to describe such algorithms.",
+            "Step 4: Commonsense knowledge: the phrase \"weapons of mass destruction\" is widely recognized and associated with large-scale harm.",
+            "Step 5: The humor comes from the wordplay substitution of \"mass\" with \"math\", linking mathematical algorithms to large-scale damage in a clever, unexpected way.",
+            "Step 6: The pun lightens the heavy topic momentarily while reinforcing the seriousness of the critique, prompting audience laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Serious systemic critique",
+                "Harm emphasized",
+                "Term introduced",
+                "Familiar phrase evoked",
+                "Key word substituted",
+                "Pun formed",
+                "Cognitive recognition",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because it uses a recognizable phrase, \"weapons of mass destruction,\" and cleverly alters it to \"weapons of math destruction,\" creating wordplay that reinforces the critique while providing a brief comic release.",
+            "hallucination_flag": 0
+            }
+      },
+
+      {
+        "id": "4580",
+        "source": "TED",
+        "C_text": "Peter Ward: you know you're gazing upon your very distant ancestors, Peter Ward: these are mammal like reptiles, Peter Ward: they are culturally invisible, Peter Ward: this is a or a gorgon, Peter Ward: that's an long skull of an animal that was probably seven or eight feet sprawled like a lizard probably had a head like a lion, Peter Ward: this is the top carnivore the t rex of its time",
+        "C_completeness": "complete",
+        "X_text": "this is my poor son patrick (audience laughs)",
+        "X_speaker": "Peter Ward",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker is describing ancient mammal-like reptiles in a serious, scientific tone, emphasizing their size and status as top carnivores, even calling one the \"t rex of its time\".",
+            "Step 2: The buildup creates an image of a large, fearsome prehistoric predator with dramatic physical traits.",
+            "Step 3: In the final remark (X), the speaker abruptly says, \"this is my poor son patrick\".",
+            "Step 4: Commonsense knowledge: referring to one's child immediately after describing a monstrous ancient carnivore creates an unexpected comparison.",
+            "Step 5: The humor arises from the sudden shift from scientific description of a terrifying creature to a personal, mundane reference to his son, implying a playful visual resemblance or joke.",
+            "Step 6: This incongruity between the grand prehistoric predator and the ordinary image of his son produces surprise and laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Scientific buildup",
+                "Grand imagery constructed",
+                "Expectation of continued seriousness",
+                "Abrupt personal reveal",
+                "Scale mismatch",
+                "Serious vs mundane contrast",
+                "Incongruity",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because after vividly describing a terrifying prehistoric predator, the speaker abruptly reveals an image of his son, creating an unexpected and playful contrast between the grand scientific buildup and a personal joke.",
+            "hallucination_flag": 0
+            }
+      },
+
+      {
+        "id": "4771",
+        "source": "TED",
+        "C_text": "Ross Lovegrove: healthy products, Ross Lovegrove: this is built by composites, Ross Lovegrove: it's a single element which rotates around to create a holistic element and this is a carbon fiber handrail which is only supported in two places, Ross Lovegrove: this is a shot in the studio, Ross Lovegrove: this is how it looks pretty much every day",
+        "C_completeness": "complete",
+        "X_text": "it doesn't pass any standards (audience laughs)",
+        "X_speaker": "Ross Lovegrove",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker describes a carefully designed carbon fiber handrail, emphasizing its innovative structure and aesthetic qualities.",
+            "Step 2: The tone suggests pride in craftsmanship and advanced design, highlighting that it is supported in only two places.",
+            "Step 3: Such descriptions typically imply that the product is well-engineered and functional.",
+            "Step 4: In the final remark (X), the speaker states, \"it doesn't pass any standards\".",
+            "Step 5: Commonsense knowledge: safety standards are especially important for structural elements like handrails, which are meant to support people.",
+            "Step 6: The humor arises from the abrupt contradiction between the sophisticated design presentation and the admission that it fails all standards, creating ironic self-deprecation and surprise (Y = 1)."
+            ],
+            "flow_chart": [
+                "Impressive presentation",
+                "Expectation of quality",
+                "Functional assumption formed",
+                "Negative reveal",
+                "Expectation reversed",
+                "Competence undermined",
+                "Incongruity",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because after presenting the handrail as an elegant, advanced design, the speaker unexpectedly admits it fails all standards, creating an ironic and self-deprecating contrast.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "4834",
+        "source": "TED",
+        "C_text": "Anna Deavere Smith: so these four characters are going to be from that work that i've been doing for many years now and well over i don't know a couple of thousand people i've interviewed, Anna Deavere Smith: anybody out here old enough to know studs terkel that old radio man so i thought he would be the perfect person to go to to ask about a defining moment in american history, Anna Deavere Smith: you know he was born in the year the titanic sank greatest ship every built, Anna Deavere Smith: hits the tip of an iceberg and bam it went down, Anna Deavere Smith: it went down and i came up",
+        "C_completeness": "complete",
+        "X_text": "wow some century (audience laughs)",
+        "X_speaker": "Anna Deavere Smith",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker references Studs Terkel, noting he was born the year the Titanic sank, describing it as the greatest ship ever built that quickly went down.",
+            "Step 2: She contrasts this by saying, \"it went down and i came up,\" linking the ship’s sinking to her own birth.",
+            "Step 3: This creates a juxtaposition between a major historical disaster and a personal beginning.",
+            "Step 4: In the final remark (X), she says, \"wow some century,\" summarizing the dramatic contrast between catastrophe and new life.",
+            "Step 5: Commonsense knowledge: the 20th century is known for dramatic, large-scale historical events, including disasters and major social change.",
+            "Step 6: The humor arises from compressing a monumental tragedy and her own arrival into a brief, ironic commentary about the intensity of the century, producing a light, reflective punchline (Y = 1)."
+            ],
+            "flow_chart": [
+                "Historical reference",
+                "Major event described",
+                "Personal link inserted",
+                "Catastrophe vs birth contrast",
+                "Large-scale framing",
+                "Understated summary",
+                "Ironic compression",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because she juxtaposes the Titanic’s dramatic sinking with her own birth and then wryly sums it up as \"some century,\" playfully highlighting the era’s extremes in a concise, ironic way.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "5213",
+        "source": "TED",
+        "C_text": "Sheryl WuDunn: they have a hut that has no electricity no running water no wristwatch no bicycle, Sheryl WuDunn: and they share this great splendor with a very large pig, Sheryl WuDunn: dai was in sixth grade when her parents said we're going to pull you out of school because the school fees are too much for us, Sheryl WuDunn: you're going to be spending the rest of your life in the rice paddies, Sheryl WuDunn: why would we waste this money on you this is what happens to girls in remote areas, Sheryl WuDunn: turns out that dai was the best pupil in her grade, Sheryl WuDunn: she still made the two hour trek to the schoolhouse and tried to catch every little bit of information that seeped out of the doors, Sheryl WuDunn: we wrote about her in the new york times",
+        "C_completeness": "complete",
+        "X_text": "we got a flood of donations mostly checks because new york times readers are very generous in tiny amounts but then we got a money transfer for really nice guy (audience laughs)",
+        "X_speaker": "Sheryl WuDunn",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker describes a serious and emotional story about a girl pulled out of school due to poverty, emphasizing hardship and injustice.",
+            "Step 2: The tone is sympathetic and focused on inequality, culminating in the fact that the story was published in the \"new york times\".",
+            "Step 3: In the final remark (X), the speaker says they received many donations, mostly small checks, and comments that \"new york times readers are very generous in tiny amounts\".",
+            "Step 4: Commonsense knowledge: describing people as generous \"in tiny amounts\" is a mild, ironic way of saying they give small donations, which playfully undercuts the praise.",
+            "Step 5: She then contrasts this with receiving a large money transfer from \"a really nice guy\", creating a humorous contrast between many small donations and one notably large one.",
+            "Step 6: The humor arises from the gentle teasing of donors and the unexpected specificity of highlighting a single large donor, which lightens the otherwise serious narrative (Y = 1)."
+            ],
+            "flow_chart": [
+                "Serious hardship narrative",
+                "Emotional investment built",
+                "Positive response introduced",
+                "Qualified praise added",
+                "Small vs large contrast",
+                "Mild teasing tone",
+                "Irony",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because after a serious story about poverty, the speaker playfully notes that readers are generous but in small amounts, then contrasts this with one notably large donation, creating a light, ironic moment.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "6364",
+        "source": "TED",
+        "C_text": "Rana el Kaliouby: do we do that we give our algorithms tens of thousands of examples of people we know to be smiling from different ages genders and we do the same for smirks, Rana el Kaliouby: and then using deep learning the algorithm looks for all these textures and wrinkles and shape changes on our face and basically learns that all smiles have common characteristics all smirks have subtly different characteristics, Rana el Kaliouby: and the next time it sees a new face it essentially learns that this face has the same characteristics of a smile and it says aha i recognize this, Rana el Kaliouby: this is a smile expression",
+        "C_completeness": "complete",
+        "X_text": "so the best way to demonstrate how this technology works is to try a live demo so i need a volunteer preferably somebody with a face (audience laughs)",
+        "X_speaker": "Rana el Kaliouby",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker explains in technical detail how algorithms are trained to recognize facial expressions such as smiles and smirks.",
+            "Step 2: The explanation emphasizes analyzing facial features like textures, wrinkles, and shape changes, focusing specifically on faces.",
+            "Step 3: In the final remark (X), she asks for a volunteer and adds, \"preferably somebody with a face\".",
+            "Step 4: Commonsense knowledge: all audience members present are expected to have faces, so specifying this requirement is unnecessary.",
+            "Step 5: The humor arises from this obvious and redundant qualification, which playfully references the technical focus on faces.",
+            "Step 6: The unexpected phrasing lightly breaks the technical tone and creates a simple absurdity, prompting laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Technical explanation",
+                "Specific domain focus",
+                "Demo proposed",
+                "Obvious condition stated",
+                "Redundancy recognized",
+                "Expectation of necessity broken",
+                "Absurdity",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because after a technical explanation about facial recognition, she asks for a volunteer \"preferably somebody with a face,\" an obviously redundant condition that playfully undercuts the formality of the setup.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "6407",
+        "source": "TED",
+        "C_text": "Rainer Strack: technology will replace a lot of jobs regular jobs, Rainer Strack: not only in the production industry but even office workers are in jeopardy and might be replaced by robots artificial intelligence big data or automation, Rainer Strack: so the key question is not if technology replaces some of these jobs but when how fast and to what extent or in other words will technology help us to solve this global workforce crisis yes and no",
+        "C_completeness": "complete",
+        "X_text": "this is a more sophisticated version of it depends (audience laughs)",
+        "X_speaker": "Rainer Strack",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker discusses the serious issue of technology replacing jobs and frames the answer to whether technology will solve the workforce crisis as \"yes and no\".",
+            "Step 2: The phrase \"yes and no\" presents a nuanced but non-committal response to a complex question.",
+            "Step 3: In the final remark (X), the speaker calls this \"a more sophisticated version of it depends\".",
+            "Step 4: Commonsense knowledge: \"it depends\" is commonly used to describe an answer that avoids taking a clear position.",
+            "Step 5: The humor comes from acknowledging that his nuanced framing is essentially a dressed-up version of a vague answer.",
+            "Step 6: This self-aware simplification of his own complex explanation creates a light moment after a serious topic, prompting laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Serious analytical setup",
+                "Nuanced answer presented",
+                "Expectation of depth",
+                "Colloquial simplification",
+                "Complexity reduced",
+                "Self-undercutting",
+                "Irony",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because he admits that his nuanced \"yes and no\" answer is essentially just a polished version of \"it depends,\" playfully undercutting his own complexity.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "6868",
+        "source": "TED",
+        "C_text": "Will Marshall: i'm going to show you a video from just four weeks ago of two of our satellites being launched from the international space station, Will Marshall: this is not an animation this is a video taken by the astronaut looking out of the window, Will Marshall: it gives you a bit of a sense of scale of our two satellites, Will Marshall: it's like some of the smallest satellites ever are being launched from the biggest satellite ever, Will Marshall: and right at the end the solar array in the sun, Will Marshall: it's really cool",
+        "C_completeness": "complete",
+        "X_text": "it's the money shot (audience laughs)",
+        "X_speaker": "Will Marshall",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker enthusiastically describes a real video of tiny satellites being launched from the International Space Station, emphasizing scale and calling the final moment \"really cool.\"",
+            "Step 2: The buildup focuses on the impressive visual moment at the end, particularly the solar array in the sun.",
+            "Step 3: In the final remark (X), he refers to this climactic visual as \"the money shot.\"",
+            "Step 4: Commonsense knowledge: \"money shot\" is an informal expression used to describe the most visually impressive or climactic moment, and it can also carry suggestive or exaggerated connotations in popular culture.",
+            "Step 5: Using this casual, slightly loaded phrase contrasts with the scientific and technical tone of the presentation.",
+            "Step 6: The humor arises from this unexpected shift to informal, dramatic slang to describe a scientific image, prompting laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Technical buildup",
+                "Climactic visual framed",
+                "Expectation of formal tone",
+                "Slang label introduced",
+                "Register shift",
+                "High vs casual contrast",
+                "Incongruity",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because after building up a scientifically impressive moment, he casually labels it \"the money shot,\" using informal, slightly loaded slang that contrasts with the formal space context.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "7112",
+        "source": "TED",
+        "C_text": "Rives TTYL: seven different salts, Rives TTYL: he means he's got this sudden notion to stand on dry land but just panhandle at the ocean, Rives TTYL: and the girl goes so the guy replies yeah i know i know, Rives TTYL: i think my heartbeat might be the morse code for inappropriate, Rives TTYL: at least that's how it seems, Rives TTYL: i'm like a junior varsity cheerleader sometimes for swearing awkward silences and very simple rhyme schemes, Rives TTYL: right now talking to you i'm not even really a guy",
+        "C_completeness": "complete",
+        "X_text": "i'm a monkey blowing kisses at a butterfly (audience laughs)",
+        "X_speaker": "Rives TTYL",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker uses poetic and metaphorical language, describing himself in self-deprecating and abstract ways, such as \"i think my heartbeat might be the morse code for inappropriate\" and \"i'm like a junior varsity cheerleader\".",
+            "Step 2: He builds a tone of vulnerability and awkwardness, suggesting he feels socially clumsy or overly expressive.",
+            "Step 3: He then says \"right now talking to you i'm not even really a guy\", setting up an unexpected metaphorical identity shift.",
+            "Step 4: In the final remark (X), he completes this with \"i'm a monkey blowing kisses at a butterfly\".",
+            "Step 5: Commonsense knowledge: a monkey blowing kisses at a butterfly is an exaggerated, whimsical, and somewhat absurd image that conveys playful infatuation or harmless admiration.",
+            "Step 6: The humor arises from the sudden, vivid, and unexpected metaphor that contrasts with ordinary self-description, creating a surprising and charming visual that prompts laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Poetic self-description",
+                "Awkward vulnerability built",
+                "Identity destabilized",
+                "Unexpected metaphor",
+                "Vivid absurd image",
+                "Literal vs figurative clash",
+                "Playful incongruity",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because the speaker abruptly replaces his identity with the whimsical image of \"a monkey blowing kisses at a butterfly,\" an exaggerated and unexpected metaphor that playfully captures awkward affection.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "8795",
+        "source": "TED",
+        "C_text": "Jeff Speck: final argument in this topic is that i think we're trying to be green the wrong way and i'm one of many people who believes that this focus on gadgets on what can i add to my house what can i add to what i've already got to make my lifestyle more sustainable has kind of dominated the discussion, Jeff Speck: so i'm not immune to this, Jeff Speck: my wife and i built a new house on an abandoned lot in washington d, Jeff Speck: and we did our best to clear the shelves of the sustainability store, Jeff Speck: a log burning in my german high tech stove apparently supposedly contributes less carbon to the atmosphere than were it left alone to decompose in the forest",
+        "C_completeness": "complete",
+        "X_text": "yet all of these innovations that's what they said in the brochure (audience laughs)",
+        "X_speaker": "Jeff Speck",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker critiques the tendency to focus on adding \"green\" gadgets to make lifestyles more sustainable.",
+            "Step 2: He admits that he and his wife adopted many sustainability features in their own home, including a \"german high tech stove\" with a specific environmental claim.",
+            "Step 3: The claim about the log producing less carbon when burned than when decomposing sounds technical and somewhat counterintuitive.",
+            "Step 4: In the final remark (X), he undercuts the authority of that claim by saying, \"that's what they said in the brochure.\"",
+            "Step 5: Commonsense knowledge: marketing brochures often present products in an overly positive or simplified way, and their claims may be taken skeptically.",
+            "Step 6: The humor arises from the self-aware acknowledgment that he may have relied on promotional language rather than verified science, lightly mocking his own participation in gadget-driven sustainability (Y = 1)."
+            ],
+            "flow_chart": [
+                "Critical stance introduced",
+                "Personal example given",
+                "Technical claim presented",
+                "Authority implied",
+                "Source trivialized",
+                "Credibility undercut",
+                "Self-aware irony",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because after citing a technical-sounding environmental claim, he deflates its authority by admitting it came from a brochure, playfully exposing the influence of marketing on \"green\" decisions.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "8920",
+        "source": "TED",
+        "C_text": "Todd Humphreys: imagine what we could do with a world full of dots, Todd Humphreys: it's not just that you'll never lose your wallet or your keys anymore or your child when you're at disneyland, Todd Humphreys: you'll buy dots in bulk and you'll stick them on everything you own worth more than a few tens of dollars, Todd Humphreys: i couldn't find my shoes one recent morning and as usual had to ask my wife if she had seen them, Todd Humphreys: but i shouldn't have to bother my wife with that kind of triviality",
+        "C_completeness": "complete",
+        "X_text": "i should be able to ask my house where my shoes are (audience laughs)",
+        "X_speaker": "Todd Humphreys",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker describes a future where tracking \"dots\" are attached to everyday objects so they can be easily located.",
+            "Step 2: He gives practical examples like never losing your wallet, keys, or even a child in a crowded place, emphasizing convenience.",
+            "Step 3: He shares a relatable anecdote about not finding his shoes and having to ask his wife.",
+            "Step 4: In the final remark (X), he says, \"i should be able to ask my house where my shoes are.\"",
+            "Step 5: Commonsense knowledge: houses are not sentient and cannot literally respond to questions; attributing that ability to a house implies a highly automated, \"smart\" environment.",
+            "Step 6: The humor arises from exaggerating the convenience of tracking technology to the point where one casually \"asks\" the house itself, playfully anthropomorphizing technology and contrasting it with the mundane act of asking his wife (Y = 1)."
+            ],
+            "flow_chart": [
+                "Convenience vision outlined",
+                "Relatable problem introduced",
+                "Human solution used",
+                "Technological escalation",
+                "Non-human agency implied",
+                "Anthropomorphism",
+                "Exaggeration",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because he escalates the idea of smart tracking to the absurdly convenient notion of asking his house where his shoes are, playfully anthropomorphizing technology in contrast to a relatable domestic moment.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "8921",
+        "source": "TED",
+        "C_text": "Todd Humphreys: i've talked to them too and same story, Todd Humphreys: we then talked about her coming to my lab and us performing a radio sweep of her car but i wasn't even sure that would work given that some of these devices are configured to only transmit when they're inside safe zones or when the car is moving, Todd Humphreys: so there we were, Todd Humphreys: carol isn't the first and certainly won't be the last to find herself in this kind of fearsome environment worrisome situation caused by tracking",
+        "C_completeness": "complete",
+        "X_text": "the supreme court ruled last month that a policeman has to get a warrant if he wants to do prolonged tracking but the law isn't clear about civilians doing this to one another so it's not just big brother we have to worry about but big neighbor (audience laughs)",
+        "X_speaker": "Todd Humphreys",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker describes a serious and \"fearsome\" situation involving tracking devices and privacy concerns.",
+            "Step 2: He explains in (X) that the Supreme Court requires police to obtain a warrant for prolonged tracking, but the law is unclear about civilians tracking each other.",
+            "Step 3: This sets up a concern about surveillance not only from authorities but from ordinary individuals.",
+            "Step 4: Commonsense knowledge: the term \"big brother\" is widely used to refer to intrusive government surveillance.",
+            "Step 5: The speaker modifies this familiar phrase to \"big neighbor,\" shifting the threat from government to nearby civilians.",
+            "Step 6: The humor arises from this wordplay and unexpected substitution, which reframes a serious privacy issue in a clever, slightly ironic way, prompting laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Serious threat described",
+                "Authority limitation noted",
+                "Expanded risk implied",
+                "Familiar phrase invoked",
+                "Key term substituted",
+                "Threat reframed",
+                "Wordplay",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because he plays on the familiar phrase \"big brother\" and replaces it with \"big neighbor,\" cleverly highlighting the unsettling idea that surveillance threats may come from ordinary people rather than just the government.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "9161",
+        "source": "TED",
+        "C_text": "Nagin Cox: so one day you come in at the next day minutes later at the next day minutes later at the next day at, Nagin Cox: so you keep moving minutes every day until soon you're coming to work in the middle of the night the middle of the earth night, Nagin Cox: right so you can imagine how confusing that is",
+        "C_completeness": "complete",
+        "X_text": "hence the mars watch (audience laughs)",
+        "X_speaker": "Nagin Cox",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker explains a schedule that shifts by minutes each day, eventually causing people to come to work in the middle of the night.",
+            "Step 2: This creates a sense of ongoing time displacement and confusion about normal day-night cycles.",
+            "Step 3: The speaker emphasizes how confusing this constant shift would be.",
+            "Step 4: In the final remark (X), she says, \"hence the mars watch.\"",
+            "Step 5: Commonsense knowledge: a \"watch\" is used to track time; calling it a \"mars watch\" implies a special device to track a different planetary schedule.",
+            "Step 6: The humor arises from the understated punchline that such extreme scheduling confusion leads to needing a dedicated \"mars watch,\" playfully normalizing an unusual situation and prompting laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Gradual shift described",
+                "Cumulative confusion built",
+                "Problem emphasized",
+                "Concise solution offered",
+                "Specialized label introduced",
+                "Absurdity normalized",
+                "Understatement",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because after describing the disorienting time shifts, she casually concludes with \"hence the mars watch,\" humorously suggesting a specialized solution to an otherwise absurd scheduling problem.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "9167",
+        "source": "TED",
+        "C_text": "Nagin Cox: but of course it's so there's an app for that, Nagin Cox: so now instead of the watches we can also use our phones, Nagin Cox: but the impact on families was just across the board it wasn't just those of us who were working on the but our families as well, Nagin Cox: this is david oh one of our flight directors and he's at the beach in los angeles with his family at in the morning, Nagin Cox: so because we landed in august and his kids didn't have to go back to school until september they actually went on to mars time with him for one month, Nagin Cox: they got up minutes later every day, Nagin Cox: and they were on dad's work schedule, Nagin Cox: so they lived on mars time for a month and had these great adventures like going bowling in the middle of the night or going to the beach",
+        "C_completeness": "complete",
+        "X_text": "and one of the things that we all discovered is you can get anywhere in los angeles at in the morning when there's no traffic (audience laughs)",
+        "X_speaker": "Nagin Cox",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker explains how working on \"mars time\" shifts daily schedules, affecting not only employees but also their families.",
+            "Step 2: She describes a family adjusting to this unusual schedule, doing activities like bowling or going to the beach in the middle of the night.",
+            "Step 3: This setup highlights the strangeness but also the adventure of being awake at unconventional hours.",
+            "Step 4: In the final remark (X), she says, \"you can get anywhere in los angeles at in the morning when there's no traffic.\"",
+            "Step 5: Commonsense knowledge: Los Angeles is widely known for heavy traffic, making travel slow during normal hours.",
+            "Step 6: The humor arises from the relatable observation that being awake at extremely early hours eliminates traffic, turning an unusual \"mars time\" inconvenience into a practical advantage (Y = 1)."
+            ],
+            "flow_chart": [
+                "Unusual schedule described",
+                "Lifestyle disruption shown",
+                "Strangeness normalized",
+                "Everyday setting referenced",
+                "Hidden benefit revealed",
+                "Common frustration resolved",
+                "Relatable twist",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because she connects the oddity of living on \"mars time\" with the relatable benefit of avoiding Los Angeles traffic, turning a disruptive schedule into an unexpectedly convenient perk.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "9168",
+        "source": "TED",
+        "C_text": "Nagin Cox: so we would get off work and we didn't want to go home and bother our families and we were hungry so instead of going locally to eat something we'd go wait there's this great all night deli in long beach and we can get there in minutes so we would drive down it was like the no traffic, Nagin Cox: we would drive down there and the restaurant owners would go who are you people and why are you at my restaurant at in the morning so they came to realize that there were these packs of martians roaming the la freeways in the middle of the night in the middle of the earth night, Nagin Cox: and we did actually start calling ourselves martians",
+        "C_completeness": "complete",
+        "X_text": "so those of us who were on mars time would refer to ourselves as martians and everyone else as earthlings (audience laughs)",
+        "X_speaker": "Nagin Cox",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker describes people working on \"mars time\" staying up through the night, driving on empty Los Angeles freeways, and confusing restaurant owners by showing up at very early hours.",
+            "Step 2: She notes that they began to be seen as unusual groups out at night, described as \"packs of martians roaming the la freeways.\"",
+            "Step 3: The context states they \"did actually start calling ourselves martians,\" establishing a playful in-group label tied to their schedule.",
+            "Step 4: In the final remark (X), she extends the label system by saying mars-time workers called themselves \"martians\" and everyone else \"earthlings.\"",
+            "Step 5: Commonsense knowledge: \"martians\" vs. \"earthlings\" is a familiar sci-fi framing that exaggerates difference in identity and lifestyle.",
+            "Step 6: The humor arises from treating a work-schedule mismatch like a species divide, playfully dramatizing an everyday social separation created by an odd shift schedule (Y = 1)."
+            ],
+            "flow_chart": [
+                "Unusual behavior observed",
+                "Group labeled metaphorically",
+                "Identity adopted",
+                "In-group vs out-group formed",
+                "Sci-fi framing applied",
+                "Everyday difference exaggerated",
+                "Playful contrast",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because she uses the sci-fi contrast of \"martians\" and \"earthlings\" to exaggerate the social divide created by an unusual night-shift schedule, turning a logistical inconvenience into a playful identity joke.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "9553",
+        "source": "TED",
+        "C_text": "eL Seed: the house of uncle and was this kind of meeting point, eL Seed: everybody used to gather there, eL Seed: i think this is what uncle ibrahim meant when he said that was a project of peace and unity because i really felt that people were coming together, eL Seed: sometime you are at the first level of a building and somebody opens his window and offers you some tea",
+        "C_completeness": "complete",
+        "X_text": "and you keep going all the way to the top (audience laughs)",
+        "X_speaker": "eL Seed",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker describes a sense of community where people gather and interact warmly, such as someone opening a window and offering tea.",
+            "Step 2: The act of offering tea from a window suggests spontaneous hospitality at one level of a building.",
+            "Step 3: In the final remark (X), he says, \"and you keep going all the way to the top.\"",
+            "Step 4: Commonsense knowledge: if each level of a building offers hospitality, continuing upward implies repeatedly accepting invitations, potentially humorously excessive.",
+            "Step 5: The humor comes from exaggerating the friendliness into a scenario where one keeps moving upward through the building, likely being repeatedly engaged or delayed by offers of tea.",
+            "Step 6: This playful escalation of hospitality creates a light, vivid image that contrasts with the otherwise reflective tone, prompting laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Community warmth described",
+                "Single act of hospitality",
+                "Implicit repetition",
+                "Escalation upward",
+                "Excess implied",
+                "Benign behavior exaggerated",
+                "Absurd extension",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because he exaggerates the community's hospitality into the image of continually moving up the building as more people offer tea, turning warmth into a gently absurd escalation.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "10132",
+        "source": "TED",
+        "C_text": "Al Gore: we are regularly surprised by these developments, Al Gore: the late rudi dornbusch the great economist said things take longer to happen then you think they will and then they happen much faster than you thought they could, Al Gore: i really think that's where we are, Al Gore: some people are using the phrase the solar now meaning when it gets below the grid parity unsubsidized in most places then it's the default choice, Al Gore: now in one of the presentations yesterday the jitney thing there is an effort to use regulations to slow this down, Al Gore: and i just don't think it's going to work, Al Gore: there's a woman in atlanta debbie dooley who's the chairman of the atlanta tea party, Al Gore: they enlisted her in this effort to put a tax on solar panels and regulations",
+        "C_completeness": "complete",
+        "X_text": "and she had just put solar panels on her roof and she didn't understand the request (audience laughs)",
+        "X_speaker": "Al Gore",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker discusses attempts to use regulations and taxes to slow down the adoption of solar energy.",
+            "Step 2: He mentions that a political figure was enlisted to support efforts to tax or regulate solar panels.",
+            "Step 3: In the final remark (X), he reveals that this same person had \"just put solar panels on her roof.\"",
+            "Step 4: Commonsense knowledge: advocating for a tax or restriction on something you personally just adopted creates an apparent contradiction.",
+            "Step 5: The added detail that \"she didn't understand the request\" highlights the irony of the situation.",
+            "Step 6: The humor arises from this clear inconsistency between personal behavior and political advocacy, producing a moment of ironic surprise (Y = 1)."
+            ],
+            "flow_chart": [
+                "Policy conflict described",
+                "Figure recruited",
+                "Hidden detail revealed",
+                "Behavior contradicts stance",
+                "Inconsistency exposed",
+                "Irony recognized",
+                "Expectation reversal",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because it exposes the irony of someone being asked to support taxing solar panels right after installing them herself, highlighting a contradiction in a simple, understated way.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "10162",
+        "source": "TED",
+        "C_text": "OK Go: it's terrible actually, OK Go: the numbers say so, OK Go: the chance of getting all things to not fail at the same time is, OK Go: so calculate that out and you get",
+        "C_completeness": "complete",
+        "X_text": "which is one ten thousandth of one percent so your chance for success is literally one in a million (audience laughs)",
+        "X_speaker": "OK Go",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker frames the situation as \"terrible\" and says that the numbers show the chance of everything not failing at the same time is extremely low.",
+            "Step 2: The setup implies a calculation is coming, suggesting a serious, quantitative conclusion.",
+            "Step 3: In the final remark (X), they give a very small probability: \"one ten thousandth of one percent,\" then restate it as \"literally one in a million.\"",
+            "Step 4: Commonsense knowledge: saying \"literally\" and then landing on an iconic phrase like \"one in a million\" can be funny when it emphasizes how absurdly unlikely success is.",
+            "Step 5: The humor comes from the deadpan delivery of a wildly discouraging result, turning a dramatic-sounding phrase (\"one in a million\") into an actual computed outcome rather than a metaphor.",
+            "Step 6: This blend of precise math with a familiar idiom creates an ironic punchline about near-certain failure, prompting laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Low odds established",
+                "Calculation buildup",
+                "Precise figure revealed",
+                "Familiar idiom invoked",
+                "Literalization of exaggeration",
+                "Bleak result emphasized",
+                "Irony",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because the speaker converts a precise, tiny probability into the familiar phrase \"one in a million\" and emphasizes it with \"literally,\" making a common exaggeration unexpectedly exact and bleakly funny.",
+            "hallucination_flag": 0
+            }
+            
+      },
+
+      {
+        "id": "10163",
+        "source": "TED",
+        "C_text": "OK Go: upshot of all this is that if your project is pretty complex like you know every ambitious project is if you've got a lot of moving parts you're basically constrained to just reshuffling ideas that have already demonstrably proven that they're percent reliable, OK Go: so now go back to me sitting with my thumb in the air trying to line up something surprising, OK Go: if the only things i'm allowed to consider in the first place are ideas that have already been done over and over and over again i am screwed, OK Go: however there are ways around this because we all know that there are tons of untried ideas still out there and plenty of them will turn out to be every bit as reliable as we need it's just that we don't yet know they are reliable when we are at this planning phase, OK Go: so what we do is we try to identify some place where there might just be a ton of those untried ideas",
+        "C_completeness": "complete",
+        "X_text": "we try to find a sandbox and then we gamble a whole bunch of our resources on getting in that sandbox and playing (audience laughs)",
+        "X_speaker": "OK Go",
+        "Y": 1,
+        "R": {
+            "reasoning_steps": [
+            "Step 1: In the context (C), the speaker explains that complex projects are constrained to using ideas that are already proven reliable, which limits creativity.",
+            "Step 2: He expresses frustration, saying that if only repeated ideas are allowed, \"i am screwed,\" emphasizing the tension between reliability and innovation.",
+            "Step 3: He then proposes finding a space full of untried ideas, suggesting a strategic workaround.",
+            "Step 4: In the final remark (X), he says they \"gamble a whole bunch of our resources on getting in that sandbox and playing.\"",
+            "Step 5: Commonsense knowledge: a \"sandbo\" is associated with safe, playful experimentation, while \"gamble a whole bunch of our resources\" suggests high financial or professional risk.",
+            "Step 6: The humor arises from the contrast between the childlike image of \"playing in a sandbox\" and the serious reality of risking major resources, creating an ironic juxtaposition that prompts laughter (Y = 1)."
+            ],
+            "flow_chart": [
+                "Constraint on creativity",
+                "Need for innovation",
+                "Workaround proposed",
+                "Childlike metaphor introduced",
+                "High stakes acknowledged",
+                "Play vs risk contrast",
+                "Incongruity",
+                "Laughter"
+              ],
+            "final_explanation": "The humor succeeds because he contrasts the high-stakes act of gambling significant resources with the playful image of \"playing in a sandbox,\" highlighting the tension between risk and experimentation in a light, ironic way.",
+            "hallucination_flag": 0
+            }
+            
+      }
+
+
+]

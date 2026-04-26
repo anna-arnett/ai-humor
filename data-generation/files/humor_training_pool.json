@@ -1,0 +1,686 @@
+[
+  {
+    "id": "1",
+    "source": "TED",
+    "C_text": [
+      "the mathematics of quantum mechanics very accurately describes how our universe works",
+      "and it tells us our reality is continually branching into different possibilities just like a coral",
+      "it's a weird thing for us humans to wrap our minds around since we only ever get to experience one possibility",
+      "this quantum weirdness was first described by erwin and his cat"
+    ],
+    "X_text": "the cat likes this version better (audience laughs)",
+    "X_speaker": "Garrett Lisi",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_multimodal",
+    "gold_flags": ["possible_multimodal_dependence"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript introduces quantum branching and 'Erwin and his cat,' which evokes Schrodinger's cat by ordinary commonsense, but the punchline 'the cat likes this version better' depends on an unclear referent for 'this version,' likely an unseen slide or visual depiction of one branch or cat-state, so the humor is not fully recoverable from text alone."
+  },
+  {
+    "id": "11",
+    "source": "TED",
+    "C_text": [
+      "down to the smallest possible scales",
+      "so the way these things are explained in quantum field theory is all possibilities are expanding and developing at once",
+      "and in this way the way that comes in is it will be as a shape that's attached at each point in the space time",
+      "and as i said the way the shape twists the directional along which way the shape is twisting as it moves over this curved surface is what the elementary particles are themselves",
+      "so through quantum field theory they manifest themselves as points and interact that way"
+    ],
+    "X_text": "i don't know if i'll be able to make this any clearer (audience laughs)",
+    "X_speaker": "Garrett Lisi",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from self-deprecation: after a long, highly technical and hard-to-follow explanation, the speaker dryly admits that he may not be able to make it any clearer, which matches what the audience is likely already feeling."
+  },
+  {
+    "id": "70",
+    "source": "TED",
+    "C_text": [
+      "and i said ok you guys spent the whole summer on this right no we all took internships just in case it doesn't work out",
+      "all right but you're going to go in full time once you graduate",
+      "not exactly",
+      "we've all lined up backup jobs",
+      "you guys realize the entire company is a website",
+      "that's literally all it is",
+      "so i obviously declined to invest"
+    ],
+    "X_text": "and they ended up naming the company parker (audience laughs)",
+    "X_speaker": "Adam Grant",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_missing_context",
+    "gold_flags": ["missing_context"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript strongly suggests that 'Parker' is funny because it is being contrasted with the speaker's earlier refusal to invest in the company, but the text does not provide enough context to explain why that specific name is humorous or what association the audience is recognizing, so the mechanism is not fully recoverable from text alone."
+  },
+  {
+    "id": "77",
+    "source": "TED",
+    "C_text": [
+      "what you see is that the first movers had a failure rate of percent compared with only percent for the",
+      "look at waiting to build a social network until after and",
+      "look at waiting for years after altavista and yahoo",
+      "it's much easier to improve on somebody else's idea than it is to create something new from scratch",
+      "so the lesson i learned is that to be original you don't have to be first",
+      "you just have to be different and better",
+      "but that wasn't the only reason i passed on parker",
+      "they were also full of doubts"
+    ],
+    "X_text": "they had backup plans lined up and that made me doubt that they had the courage to be original because i expected that originals would look something like this (audience laughs)",
+    "X_speaker": "Adam Grant",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_multimodal",
+    "gold_flags": [
+        "possible_multimodal_dependence"
+    ],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript sets up a contrast between cautious founders with backup plans and the speaker's idea of what truly original people look like, but the phrase 'look something like this' points to an unseen visual or slide, so the full humor mechanism is not recoverable from text alone."
+    },
+  {
+    "id": "82",
+    "source": "TED",
+    "C_text": [
+      "de is when you look at something you've seen many times before and all of a sudden see it with fresh eyes",
+      "it's a screenwriter who looks at a movie script that can't get the green light for more than half a century",
+      "in every past version the main character has been an evil queen",
+      "but jennifer lee starts to question whether that makes sense",
+      "she rewrites the first act the villain as a tortured hero and frozen becomes the most successful animated movie ever"
+    ],
+    "X_text": "when you feel doubt don't let it go (audience laughs)",
+    "X_speaker": "Adam Grant",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from a direct wordplay reference to 'Let It Go,' the famous song from Frozen: after describing how Jennifer Lee improved the story by questioning the old version, the speaker flips the song title into the ironic advice 'don't let it go.'"
+    },
+  {
+    "id": "98",
+    "source": "TED",
+    "C_text": [
+      "he then ran twice for the senate lost twice",
+      "everyone is broken by life ernest hemingway once said but some people are stronger in the broken places",
+      "so then he surprised the nation with an upset victory for the presidency over three far more experienced far more educated far more celebrated rivals",
+      "and then when he won the general election he stunned the nation even more by appointing each of these three rivals into his cabinet",
+      "it was an unprecedented act at the time because everybody thought he'll look like a figurehead compared to these people",
+      "they said why are you doing this lincoln he said look these are the strongest and most able men in the country",
+      "the country is in peril"
+    ],
+    "X_text": "but perhaps my old friend lyndon johnson might have put it in less noble fashion better to have your enemies inside the tent out than outside the tent in (audience laughs)",
+    "X_speaker": "Doris Kearns Goodwin",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from contrasting Lincoln's noble explanation for appointing rivals with a much more cynical political version attributed to Lyndon Johnson, namely that keeping enemies 'inside the tent' is strategically safer than leaving them outside; the blunt, less dignified phrasing creates the laugh."
+    },
+
+  {
+    "id": "120",
+    "source": "TED",
+    "C_text": [
+      "you can see my name above the grid",
+      "i'm going to give this to you gwen to take a look",
+      "now let's take a look at another piece of the puzzle",
+      "if you look at the first clue for it starts with the letter c for corrupt and just below that we have an o for outfielder and if you keep reading the first letters of the clues down you get cobalt horse amber owl silver ox red donkey and emerald rooster",
+      "that's pretty cool right it's the new york times"
+    ],
+    "X_text": "oh gwen do you recall how i forgot my purple marker and you were unable to color the sheep well if you keep reading starting with it says oh by the way the sheep can be left blank (audience laughs)",
+    "X_speaker": "David Kwong",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from the puzzle unexpectedly encoding a very specific practical message—'the sheep can be left blank'—which comically solves the earlier problem that he forgot the purple marker needed to color it; the absurd precision of the hidden message is the joke."
+    },
+  {
+    "id": "159",
+    "source": "TED",
+    "C_text": [
+      "it will fit for the train spotters in norway",
+      "we brought it on air in november",
+      "but no this was far more attractive",
+      "this is the five biggest tv channels in norway on a normal friday and if you look at over here look what happened when they put on the bergen railway show",
+      "million norwegians watched part of this program",
+      "and another funny thing when the host on our main channel after they have got news for you she said and on our second channel the train has now nearly reached station"
+    ],
+    "X_text": "thousands of people just jumped on the train on our second channel like this (audience laughs)",
+    "X_speaker": "Thomas Hellum",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_multimodal",
+    "gold_flags": ["possible_multimodal_dependence"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript suggests a joke about viewers 'jumping on the train' by switching to the other channel, but the phrase 'like this' points to an unseen demonstration or performance cue, so the full humor mechanism is not recoverable from text alone."
+    },
+  {
+    "id": "163",
+    "source": "TED",
+    "C_text": [
+      "but it's a long program so some watched part of it like the prime minister",
+      "some watched a little bit more",
+      "it says i haven't used my bed for five days",
+      "and he's years old and he hardly slept"
+    ],
+    "X_text": "he kept watching because something might happen though it probably won't (audience laughs)",
+    "X_speaker": "Thomas Hellum",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from the deadpan contrast between the viewer's extreme commitment and the admission that the program is so uneventful that 'something might happen, though it probably won't.'"
+    },
+  {
+    "id": "183",
+    "source": "TED",
+    "C_text": [
+      "this is not a family made of scientists",
+      "this is a family like any other",
+      "they just like to spend time together doing fun creative things",
+      "by day brian is an executive at a private equity firm",
+      "at night and on weekends he experiments with alongside his kids ages seven and nine as a way to explore the living world",
+      "last time i called them they were checking out homegrown produce from the backyard garden",
+      "they were testing tomatoes that they had picked taking the flesh of their skin putting it in a test tube mixing it with chemicals to extract and then using their home copier to test those tomatoes for genetically engineered traits",
+      "for the daniels family the personal machine is like the chemistry set for the century"
+    ],
+    "X_text": "most of us may not yet be diagnosing genetic conditions in our kitchen sinks or doing at home paternity testing (audience laughs)",
+    "X_speaker": "Sebastian Kraves",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from escalating the already unusual idea of doing genetics experiments at home into even more personal and socially charged scenarios like diagnosing genetic conditions in a kitchen sink or doing at-home paternity testing, creating a funny contrast between advanced biotech and ordinary domestic space."
+    },
+  {
+    "id": "200",
+    "source": "TED",
+    "C_text": [
+      "you're seeing on the right is the design of the library specifically in terms of square footage",
+      "on the left of that diagram here you'll see a series of five platforms sort of combs collective programs",
+      "and on the right are the more indeterminate spaces things like reading rooms whose evolution in years we can't predict",
+      "so that literally was the design of the building",
+      "they signed it and to their chagrin we came back a week later and we presented them this"
+    ],
+    "X_text": "and as you can see it is literally the diagram on the right (audience laughs)",
+    "X_speaker": "Joshua PrinceRamus",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_multimodal",
+    "gold_flags": ["possible_multimodal_dependence"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript suggests a joke about the built design matching the earlier abstract diagram exactly, but the humor depends on seeing the visual object referred to by 'this' and comparing it to 'the diagram on the right,' so the full mechanism is not recoverable from text alone."   
+  },
+  {
+    "id": "214",
+    "source": "TED",
+    "C_text": [
+      "they've locked all the doors",
+      "they've kidded out the house with cameras",
+      "they're watching all of us",
+      "they've dug a basement and they've built a spy center to try and run algorithms and figure out which ones of us are troublesome and if any of us complain about that we're arrested for terrorism",
+      "some don't",
+      "i think we've all read the fairy tales which are indeed very grim"
+    ],
+    "X_text": "equally it could be better than we've been led to believe but either way we have to start seeing it exactly as it is with all of its problems because it's only by seeing it with all of its problems that we'll be able to fix them and live in a world in which we can all be happily ever after (audience laughs)",
+    "X_speaker": "Heather Brooke",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_transcription_error",
+    "gold_flags": ["possible_bad_transcription"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript hints at an ironic fairy-tale contrast between dark surveillance imagery and 'happily ever after,' but the verbal trigger is weak and the snippet contains broken or unnatural phrasing, so the audience laughter is not confidently explainable from the text alone."
+    },
+  {
+    "id": "221",
+    "source": "TED",
+    "C_text": [
+      "so you know it's one of those things that you don't take too seriously",
+      "but two weeks later i was in this little town outside the capital of the punjab and the temple and also next to it the fortress that the last guru of the sikhs guru died in as he wrote the khalsa which is their holy scripture",
+      "and i got to work and they took me somewhere down there nine kilometers away from the town and the temple and said that's where we have chosen the location",
+      "and i said this just doesn't make any sense",
+      "the pilgrims come here by the hundreds of thousands they're not going to get in trucks and buses and go down there",
+      "let's get back to the town and walk to the site",
+      "and i recommended they do it right there on that hill and this hill and bridge all the way into the town"
+    ],
+    "X_text": "and as things are a little easier in india the site was purchased within a week and we were working (audience laughs)",
+    "X_speaker": "Moshe Safdie",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from dry understatement: after describing a major design decision that would normally involve slow logistics and bureaucracy, the speaker casually says that 'things are a little easier in India' and the site was purchased within a week, which is funny because the speed is presented as surprisingly effortless."
+    },
+  {
+    "id": "262",
+    "source": "TED",
+    "C_text": [
+      "i loved dance",
+      "lola",
+      "jerome robbins",
+      "i had science projects and tons of astronomy books",
+      "i took calculus and philosophy"
+    ],
+    "X_text": "and when i was at stanford i found myself my senior year chemical engineering major half the folks thought i was a political science and performing arts major which was sort of true because i was black student union president and i did major in some other things and i found myself the last quarter juggling chemical engineering separation processes logic classes nuclear magnetic resonance spectroscopy and also producing and choreographing a dance production and i had to do the lighting and the design work and i was trying to figure out do i go to new york city to try to become a professional dancer or do i go to medical school now my mother helped me figure that one out (audience laughs)",
+    "X_speaker": "Mae Jemison",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from the long buildup of Mae Jemison juggling both highly technical science work and serious dance production, ending with the deadpan line that her mother 'helped' decide between becoming a professional dancer and going to medical school, implying a familiar parental push toward the more conventional path."
+    },
+  {
+    "id": "284",
+    "source": "TED",
+    "C_text": [
+      "now if there's no best option if the scales don't tip in favor of one alternative over another then surely the alternatives must be equally good",
+      "so maybe the right thing to say in hard choices is that they're between equally good options",
+      "but that can't be right",
+      "if alternatives are equally good you should just flip a coin between them and it seems a mistake to think here's how you should decide between careers places to live people to marry flip a coin",
+      "suppose you have a choice between two jobs you could be an investment banker or a graphic artist",
+      "there are a variety of things that matter in such a choice like the excitement of the work achieving financial security having time to raise a family and so on",
+      "maybe the artist's career puts you on the cutting edge of new forms of pictorial expression"
+    ],
+    "X_text": "maybe the banking career puts you on the cutting edge of new forms of financial manipulation (audience laughs)",
+    "X_speaker": "Ruth Chang",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from the parallel contrast between the two careers: after describing the artist as being on the cutting edge of new pictorial expression, the speaker gives the banker a sarcastic counterpart—'new forms of financial manipulation'—which cynically reframes banking innovation as morally dubious."
+    },
+
+  {
+    "id": "430",
+    "source": "TED",
+    "C_text": [
+      "it seriously threatens the livelihoods of millions of people and especially in africa and china",
+      "and it is largely an issue that we've created for ourselves through unsustainable use of scarce resources",
+      "so we get climate change",
+      "we get droughts increased crashing food systems water scarcity famine forced migration political instability warfare crisis",
+      "but how far away is it i went to in northern nigeria to try and find out how far away it is",
+      "the dunes here move southward at a pace of around meters a year",
+      "that's the sahara eating up almost two meters a day of the arable land physically pushing people away from their homes"
+    ],
+    "X_text": "here i am i'm the second person on the left with the elders in kara a tiny village outside of (audience laughs)",
+    "X_speaker": "Magnus Larsson",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_multimodal",
+    "gold_flags": ["possible_multimodal_dependence"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript points to an unseen visual with 'here i am' and 'the second person on the left,' so the audience laughter likely depends on seeing the image and recognizing something about the speaker's appearance or placement that is not recoverable from text alone."
+    },
+  {
+    "id": "484",
+    "source": "TED",
+    "C_text": [
+      "not a metaphorical one the way we use it today but a literal magic spell associated with witches and gypsies and to some extent celtic magic",
+      "and over the years around the turn of the century it started to take on this other kind of deception this definition for any artificial interest in or association with an object through which it appears magnified or glorified",
+      "but still glamour is an illusion",
+      "glamour is a magic spell",
+      "and there's something dangerous about glamour throughout most of history",
+      "when the witches cast a magic spell on you it was not in your self interest it was to get you to act against your interest",
+      "well of course in the century glamour came to have this different meaning associated with hollywood"
+    ],
+    "X_text": "hedy lamarr said anyone can look glamorous all you have to do is sit there and look stupid (audience laughs)",
+    "X_speaker": "Virginia Postrel",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from the bluntly cynical reversal of glamour: after building up glamour as illusion and Hollywood mystique, the Hedy Lamarr quote deflates it by saying looking glamorous just means 'sit there and look stupid,' which is unexpectedly harsh and anti-glamorous."
+    },
+  {
+    "id": "485",
+    "source": "TED",
+    "C_text": [
+      "now this was kindly lent to me by jeff from last year",
+      "this is underneath jeff's desk",
+      "this is what the real world of computers lamps electrical appliances of all kinds looks like",
+      "there are no cords",
+      "look next time you get these catalogs in your mail you can usually figure out where they hid the cord"
+    ],
+    "X_text": "but there's always this illusion that if you buy this lamp you will live in a world without cords (audience laughs)",
+    "X_speaker": "Virginia Postrel",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from the contrast between the messy reality of appliances with visible cords and the fantasy sold by catalog images, as if buying a lamp could let you live in an impossibly cord-free world."
+    },
+  {
+    "id": "545",
+    "source": "TED",
+    "C_text": [
+      "we know our universes are united though links between left and right",
+      "the everyday world is determined by atoms how they stick together to make molecules",
+      "stars are fueled by how the nuclei in those atoms react together",
+      "and as we've learned in the last few years galaxies are held together by the gravitational pull of so called dark matter particles in huge swarms far smaller even than atomic nuclei",
+      "but we'd like to know the synthesis symbolized at the very top",
+      "the micro world of the quantum is understood",
+      "on the right hand side gravity holds sway"
+    ],
+    "X_text": "but the unfinished business for century science is to link together cosmos and micro world with a unified theory symbolized as it were at the top of that picture (audience laughs)",
+    "X_speaker": "Martin Rees",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_multimodal",
+    "gold_flags": ["possible_multimodal_dependence"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript refers explicitly to an unseen diagram with phrases like 'symbolized at the very top' and 'that picture,' so the audience laughter likely depends on the visual arrangement or labeling of the slide rather than on a fully recoverable verbal joke in the text alone."
+    },
+  {
+    "id": "643",
+    "source": "TED",
+    "C_text": [
+      "you can see it's always reacting",
+      "this is not a dead body",
+      "only i think it's quite a big blow again"
+    ],
+    "X_text": "you feel kind of sorry for that thing and we've seen it so many times now that we don't really care any more (audience laughs)",
+    "X_speaker": "Torsten Reil",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_multimodal",
+    "gold_flags": ["possible_multimodal_dependence", "possible_bad_transcription"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The humor is not fully recoverable from text alone because phrases like 'that thing' and 'we've seen it so many times now' point to an unseen visual object or repeated demonstration, and the surrounding transcript is also somewhat broken, which makes the exact trigger unclear."
+  },
+  {
+    "id": "665",
+    "source": "TED",
+    "C_text": [
+      "the problem is if you hit this asteroid you've changed the orbit you measure the orbit then you find out oh yeah we just pushed it into a keyhole and now it's going to hit us in three years",
+      "well my opinion is fine it's not hitting us in six months that's good",
+      "now we have three years to do something else",
+      "and you can hit it again"
+    ],
+    "X_text": "and this is the part it's the part i just love (audience laughs)",
+    "X_speaker": "Phil Plait",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_missing_context",
+    "gold_flags": ["missing_context", "possible_alignment_error"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript sets up an absurd asteroid-deflection scenario, but the laughter-marked line is only a vague reaction ('this is the part I just love') rather than a clearly recoverable joke, so the humor likely depends on omitted nearby context or reaction timing rather than on the text alone."
+  },
+  {
+    "id": "717",
+    "source": "TED",
+    "C_text": [
+      "going to show you an example of each of these and i'm going to start with materials",
+      "steve who's at the university of pittsburgh about a decade ago had a remarkable idea",
+      "and that idea was that the small intestine of a pig if you threw away all the cells and if you did that in a way that allowed it to remain biologically active may contain all of the necessary factors and signals that would signal the body to heal itself",
+      "and he asked a very important question"
+    ],
+    "X_text": "the picture i'm about to show you is a compelling picture (audience laughs)",
+    "X_speaker": "Alan Russell",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_multimodal",
+    "gold_flags": ["possible_multimodal_dependence"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The laughter likely depends on the unseen image the speaker is about to show: the line 'the picture i'm about to show you is a compelling picture' works as a teasing setup or understatement, but the actual humor trigger is not fully recoverable without seeing the picture itself."
+  },
+  {
+    "id": "730",
+    "source": "TED",
+    "C_text": [
+      "and that brings us to the mythology of business",
+      "if alexander's belief influenced his behavior if the belief influences his behavior then it was bound to influence the business they were in",
+      "you see what is business but the result of how the market behaves and how the organization behaves and if you look at cultures around the world all you have to do is understand the mythology and you will see how they behave and how they do business",
+      "take a look",
+      "if you live only once in one life cultures around the world you will see an obsession with binary logic absolute truth standardization absoluteness linear patterns in design"
+    ],
+    "X_text": "but if you look at cultures which have cyclical and based on infinite lives you will see a comfort with fuzzy logic with opinion with thinking with everything is relative sort of mostly (audience laughs)",
+    "X_speaker": "Devdutt Pattanaik",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from the speaker illustrating his own point in the wording itself: after contrasting binary logic with cultures comfortable with relativity and fuzzy thinking, he ends with the deliberately hedged phrase 'everything is relative sort of mostly,' which performs that fuzzy logic in a funny way."
+  },
+  {
+    "id": "773",
+    "source": "TED",
+    "C_text": [
+      "and they've started promoting them with huge money behind it",
+      "i mean the had",
+      "billion dollars before a ball was bowled",
+      "and then they had to appeal to their cities but they had to do it like the west right because we are setting up leagues",
+      "but what they were very good at doing was making it very localized",
+      "so just to give you an example of how they did it not manchester united style promotion but very style promotion",
+      "take a look"
+    ],
+    "X_text": "of course a lot of people said maybe they dance better than they play (audience laughs)",
+    "X_speaker": "Harsha Bhogle",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_multimodal",
+    "gold_flags": ["possible_multimodal_dependence"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript signals an unseen visual with 'take a look,' and the laughter-marked line about dancing better than playing appears to comment on whatever was shown, so the humor likely depends on the video or performance rather than being fully recoverable from text alone."
+  },
+
+  {
+    "id": "804",
+    "source": "TED",
+    "C_text": [
+      "my plans",
+      "this is what i want to do",
+      "i want to take shipping containers and turn them into healthy cafes",
+      "now don't get me wrong"
+    ],
+    "X_text": "the funny thing about sustainability you have to sustain it (audience laughs)",
+    "X_speaker": "Ron Finley",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from a self-referential wordplay on 'sustainability': the speaker turns the abstract concept into the bluntly obvious line that to be sustainable, something actually has to be sustained, which lands as a wry, commonsense truth."
+  },
+  {
+    "id": "880",
+    "source": "TED",
+    "C_text": [
+      "so we're able to then see the self assembly of these oil droplet bodies again that we've seen previously and the black spots inside of there represent this kind of black tar this diverse very complex organic black tar",
+      "and we put them into one of these experiments as you've seen earlier and then we watch lively movement that comes out",
+      "they look really good very nice movement and also they appear to have some kind of behavior where they kind of circle around each other and follow each other similar to what we've seen before but again working with just primordial conditions no pure chemicals",
+      "these are also these tar fueled are also able to locate resources in their environment",
+      "i'm going to add some resource from the left here that into the system and you can see they really like that",
+      "they become very energetic and able to find the resource in the environment similar to what we saw before",
+      "but again these are done in these primordial conditions really messy conditions not sort of sterile laboratory conditions"
+    ],
+    "X_text": "these are very dirty little as a matter of fact (audience laughs)",
+    "X_speaker": "Martin Hanczyc",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_transcription_error",
+    "gold_flags": ["possible_bad_transcription", "possible_truncation"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript suggests a joke about these messy, tar-fueled droplets being 'dirty little' something, which would fit the preceding emphasis on primordial and non-sterile conditions, but the laughter-marked line is clearly incomplete or malformed, so the humor is not confidently recoverable from the text alone."
+  },
+  {
+    "id": "900",
+    "source": "TED",
+    "C_text": [
+      "does the happiest man in the world look like he certainly doesn't look like me",
+      "he looks like this",
+      "his name is ricard",
+      "so how do you get to be the happiest man in the world well it turns out there is a way to measure happiness in the brain",
+      "and you do that by measuring the relative activation of the left prefrontal cortex in the versus the right prefrontal cortex",
+      "and happiness measure is off the charts",
+      "he's by far the happiest man ever measured by science"
+    ],
+    "X_text": "which leads us to a question what was he thinking when he was being measured perhaps something very naughty (audience laughs)",
+    "X_speaker": "Chade Meng Tan",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from deflating the lofty idea of 'the happiest man in the world' with the mischievous suggestion that he may simply have been thinking something 'very naughty' during the brain scan, creating an unexpected contrast between scientific seriousness and a cheeky everyday explanation."
+  },
+  {
+    "id": "958",
+    "source": "TED",
+    "C_text": [
+      "fifteen percent of the entire u",
+      "s",
+      "there's plenty of resource",
+      "okay",
+      "so thank you mark"
+    ],
+    "X_text": "so if you were in palm springs (audience laughs)",
+    "X_speaker": "Nuclear Debate",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_transcription_error",
+    "gold_flags": ["possible_bad_transcription", "possible_truncation", "possible_alignment_error"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript is too fragmented to support a confident humor explanation: the context is broken into incomplete pieces ('u', 's', 'okay', 'so thank you mark'), and the laughter-marked line 'so if you were in palm springs' does not contain a recoverable verbal joke on its own, so the reaction is not explainable from the text alone."
+  },
+  {
+    "id": "1004",
+    "source": "TED",
+    "C_text": [
+      "it's an amalgam of wood and cast iron and felt and steel strings and all these and they're all amazingly sensitive to temperature and humidity",
+      "so when you go into the recording session you get to stop after every piece and rebuild the piano if you need to",
+      "there's the whole action there sitting kind of on the side and the dummy head and our recording engineers standing around while we rebuild the piano",
+      "without putting dates next to these things step music will be turned into data like every field that's occurred in the past or years",
+      "audio has come very late to this game i'm not talking about digitizing and bits and re mastering",
+      "i'm talking about turn it into the data that it was made from which is how it was performed",
+      "and audio came very late because our ears are so hard to fool they're high resolution and they're wired straight to our emotions and you can't trick them very easily",
+      "your eyes are pretty happy with some color and movement you know"
+    ],
+    "X_text": "all right there's this episode of star trek (audience laughs)",
+    "X_speaker": "John Walker",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from the abrupt self-aware pivot to 'there's this episode of Star Trek,' invoking the common association of Star Trek with dense futuristic science talk and implicitly comparing the speaker's long technical explanation to sci-fi technobabble."
+  },
+  {
+    "id": "1036",
+    "source": "TED",
+    "C_text": [
+      "is another naive advertising man's question again",
+      "and this shows that engineers medical people scientific people have an obsession with solving the problems of reality when actually most problems once you reach a basic level of wealth in society most problems are actually problems of perception",
+      "so i'll ask you another question",
+      "what on earth is wrong with placebos they seem fantastic to me"
+    ],
+    "X_text": "they have no side effects or if they do they're imaginary so you can safely ignore them (audience laughs)",
+    "X_speaker": "Rory Sutherland",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from the speaker treating placebo side effects with literal playful logic: if placebos work through perception, then any side effects are 'imaginary' too and can be ignored, which turns a medical concern into a cheeky joke."
+  },
+  {
+    "id": "1038",
+    "source": "TED",
+    "C_text": [
+      "but actually the point of placebo education is interesting",
+      "how many problems of life can be solved actually by tinkering with perception rather than that tedious hardworking and messy business of actually trying to change reality here's a great example from history",
+      "i've heard this attributed to several other kings but doing a bit of historical research it seems to be fredrick the great",
+      "fredrick the great of prussia was very very keen for the germans to adopt the potato and to eat it because he realized that if you had two sources of carbohydrate wheat and potatoes you get less price volatility in bread",
+      "and you get a far lower risk of famine because you actually had two crops to fall back on not one",
+      "the only problem is potatoes if you think about it look pretty disgusting"
+    ],
+    "X_text": "and also century ate very very few vegetables rather like contemporary scottish people (audience laughs)",
+    "X_speaker": "Rory Sutherland",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from the sarcastic aside that people in that century ate very few vegetables, followed by a cheeky comparison to contemporary Scottish people; the joke is the unexpected modern cultural jab inserted into a historical explanation."
+  },
+  {
+    "id": "1064",
+    "source": "TED",
+    "C_text": [
+      "and listen i'm a modern woman",
+      "i am totally down with splitting the bill",
+      "t",
+      "so needless to say i was not having a good night",
+      "so i run home i call my mother i call my sister and as i do at the end of each one of these terrible terrible dates i them with the details"
+    ],
+    "X_text": "and they say to me stop complaining (audience laughs)",
+    "X_speaker": "Amy Webb",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from self-deprecation: after describing yet another terrible date and her routine of calling her mother and sister to recount all the details, the punchline is that they bluntly tell her to stop complaining, which humorously undercuts her expectation of sympathy."
+  },
+  {
+    "id": "1106",
+    "source": "TED",
+    "C_text": [
+      "we cleaned up the of beach shown",
+      "i offered five cents each for bottle caps",
+      "i got plenty of takers",
+      "here are the bottle caps they collected",
+      "i thought i would spend bucks",
+      "i separated them by color and put them on display the next earth day at marine aquarium in san pedro",
+      "governor schwarzenegger and his wife maria stopped by to discuss the display"
+    ],
+    "X_text": "in spite of my man hat crocheted from plastic shopping bags they shook my hand (audience laughs)",
+    "X_speaker": "Charles Moore",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from self-deprecation: after building up a serious environmental display and an encounter with Governor Schwarzenegger, the speaker undercuts the moment by mentioning his absurd 'man hat' crocheted from plastic shopping bags, making it funny that they still shook his hand."
+  },
+  {
+    "id": "1109",
+    "source": "TED",
+    "C_text": [
+      "this is a way to use a more familiar kind of mystery",
+      "what does this mean this is what it means",
+      "make it look like something else",
+      "the visual vernacular is the way we are used to seeing a certain thing applied to something else so that we see it in a different way",
+      "all the beauty you will ever need now the challenge here was that this title actually means nothing",
+      "it's not connected to any of the essays in the book",
+      "it came to the author's boyfriend in a dream"
+    ],
+    "X_text": "thank you very much so so usually i am creating a design that is in some way based on the text but this is all the text there is (audience laughs)",
+    "X_speaker": "Chip Kidd",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from meta-commentary: after explaining that his designs are usually based on the text of a book, he reveals that in this case the title 'means nothing' and came to the author's boyfriend in a dream, so 'this is all the text there is' humorously highlights how little material he had to work with."
+  },
+  {
+    "id": "1117",
+    "source": "TED",
+    "C_text": [
+      "right and now i'm thinking uh oh and the train's about to come and i'm trying to figure out what this means and thanks a lot",
+      "part of the problem here is that they've compartmentalized the information in a way they think is helpful and frankly i don't think it is at all",
+      "so this is mystery we do not need",
+      "what we need is useful clarity so just for fun i redesigned this",
+      "this is using all the same elements",
+      "thank you",
+      "i am still waiting for a call from the"
+    ],
+    "X_text": "they just didn't even bother to make the and the green those idiots (audience laughs)",
+    "X_speaker": "Chip Kidd",
+    "Y": 1,
+    "gold_support_label": "text_insufficient_possible_transcription_error",
+    "gold_flags": ["possible_bad_transcription", "possible_multimodal_dependence", "possible_truncation"],
+    "gold_hallucination_flag": 1,
+    "gold_note": "The transcript is not sufficient because the laughter-marked line is visibly broken ('make the and the green'), and the surrounding context also points to an unseen redesigned visual, so the humor likely depends on both a malformed transcript and a slide-based comparison that cannot be recovered from text alone."
+  },
+  {
+    "id": "1172",
+    "source": "TED",
+    "C_text": [
+      "but the other thing is that maybe we could seduce people into stuff that was a little more technical maybe a little bit more scientific maybe a little bit more chef y than they otherwise would have",
+      "because with that beautiful photo maybe i can also package this little box here that talks about how steaming and boiling actually take different amounts of time",
+      "steaming ought to be faster",
+      "it turns out it isn't because of something called film condensation and this explains that",
+      "so here's another one",
+      "we discovered why are the shape they are"
+    ],
+    "X_text": "but we had a philosophy which is it only has to look good for a thousandth of a second (audience laughs)",
+    "X_speaker": "Nathan Myhrvold",
+    "Y": 1,
+    "gold_support_label": "text_sufficient",
+    "gold_flags": [],
+    "gold_hallucination_flag": 0,
+    "gold_note": "The transcript is sufficient because the humor comes from a blunt, behind-the-scenes admission about food presentation: after discussing making technical material attractive with beautiful photos, the speaker jokes that their real philosophy was that the food only needed to look good for the instant it was photographed."
+  }
+]

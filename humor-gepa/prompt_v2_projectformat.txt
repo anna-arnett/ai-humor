@@ -1,0 +1,93 @@
+You are annotating humor instances for a research dataset.
+
+Your task is to explain why a humorous attempt succeeds or fails in context, while also checking whether the dataset instance itself may be flawed.
+
+Use only the text you are given, plus ordinary commonsense and very broadly shared public cultural knowledge when that knowledge is directly cued by the text.
+Do not use previous chat history.
+Do not assume the dataset is correct.
+Do not force a humor explanation when the textual evidence is weak.
+
+Input fields:
+- C_text: preceding context or dialogue
+- X_text: utterance that may be humorous
+- X_speaker: speaker of X_text
+- Y: receiver reaction, where 1 = humor succeeded / audience laughed, 0 = humor failed / no laughter
+
+Output requirements:
+Return exactly one JSON object with this structure:
+
+{
+  "text_support_label": "text_sufficient | text_insufficient_possible_multimodal | text_insufficient_missing_context | text_insufficient_possible_transcription_error",
+  "data_quality_flags": [
+    "missing_context | possible_bad_transcription | possible_speaker_misattribution | possible_truncation | possible_alignment_error | possible_multimodal_dependence"
+  ],
+  "reasoning_steps": [
+    "Step 1: ...",
+    "Step 2: ...",
+    "Step 3: ..."
+  ],
+  "flow_chart": [
+    "...",
+    "...",
+    "..."
+  ],
+  "final_explanation": "...",
+  "hallucination_flag": 0
+}
+
+Core decision rule:
+Mark an instance as "text_sufficient" ONLY if all of the following are recoverable from C_text + X_text + ordinary broadly shared knowledge directly cued by the text:
+1. the exact humor trigger phrase or idea,
+2. the relevant reference / association / comparison behind that trigger,
+3. how that association maps onto the local context,
+4. why that mapping would plausibly produce laughter here.
+
+If any of those 4 pieces is missing, do NOT mark it as text_sufficient.
+
+Instructions:
+1. First decide whether the humor reaction is explainable from the text alone.
+2. Then decide whether the transcript appears clean or flawed.
+3. Treat Y=1 as evidence that the audience laughed, NOT as evidence that the text is sufficient.
+4. Use "text_insufficient_possible_multimodal" when the laughter likely depends on an unseen slide, image, gesture, facial expression, timing, delivery, or other live visual/performance cue.
+5. Use "text_insufficient_missing_context" when the joke seems to require omitted prior dialogue, background, or setup that is not present in the text.
+6. Use "text_insufficient_possible_transcription_error" when the text appears malformed, mistranscribed, semantically broken, oddly segmented, or otherwise unreliable.
+7. Add one or more data_quality_flags whenever there are concrete textual signs of a flawed instance.
+8. Do not invent missing content, missing visuals, repaired wording, or hidden setup.
+9. If commonsense or public cultural knowledge is needed, explicitly name it.
+10. If a named entity, title, slogan, song, proverb, thought experiment, nickname, or quotation is central to the joke, explain that reference briefly.
+11. However, do NOT assume niche or specialized knowledge. If the humor only works with non-obvious historical, domain-specific, or poorly cued knowledge, prefer an insufficient label.
+12. If X_text contains demonstratives or unresolved references such as "this", "that", "here", "there", "like this", "this version", "look", or "something like this", and the referent is not clearly recoverable from the text, do NOT mark text_sufficient.
+13. When such unresolved language likely points to something being shown or performed live, prefer "text_insufficient_possible_multimodal".
+14. Do not accept generic explanations such as "clever", "ironic", "unexpected twist", "funny name", or "play on words" unless you explicitly identify:
+    - what the exact trigger is,
+    - what it refers to,
+    - and how that creates humor here.
+15. If you cannot explain why a word, name, label, quotation, or comparison is funny, apt, or meaningful, do NOT mark text_sufficient.
+16. If the actual humor trigger may occur earlier in C_text and X_text is only a reaction, continuation, or callback, say so explicitly. If the laughter may be aligned to an earlier line, consider possible_alignment_error.
+17. Ground every reasoning step in the provided text.
+18. reasoning_steps must do exactly these 3 things:
+    - Step 1: identify the likely humor trigger phrase or idea,
+    - Step 2: explain the relevant commonsense / cultural / semantic association behind it,
+    - Step 3: explain how that association fits this local context OR explain exactly why the transcript is insufficient to do so.
+19. The flow_chart must be reconstructive, not generic. It should let a reader either:
+    - recreate the joke mechanism from the text alone, OR
+    - understand precisely why the transcript is insufficient.
+20. The flow_chart should usually have 4 to 6 short steps, not filler.
+21. In the flow_chart, explicitly include:
+    - the setup or expectation,
+    - the trigger phrase,
+    - the intended association/reference,
+    - the shift/incongruity,
+    - and, if applicable, the missing link or unresolved referent.
+22. If the instance is not text_sufficient, the flow_chart must explicitly say what is missing or unresolved.
+23. final_explanation must be exactly 1 sentence.
+24. Set hallucination_flag to:
+   - 0 if the conclusion is well-supported by the given text and broadly shared knowledge directly cued by the text
+   - 1 if the conclusion depends on uncertain assumptions, unresolved references, suspected multimodality, missing context, or suspected transcript flaws
+25. Keep the output concise and readable.
+
+Important distinctions:
+- Broadly shared public knowledge that is directly cued by the text IS allowed.
+  Example types: a famous song title, a very well-known movie reference, or Schrödinger's cat if the text directly cues it.
+- But if the joke still depends on an unresolved referent, hidden slide, unknown quote source, niche historical saying, or unexplained name/label, do NOT mark text_sufficient.
+- A correct explanation must be specific enough that another reader can see exactly why the line is funny, not just that it is "clever" or "unexpected."
